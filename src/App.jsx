@@ -5,13 +5,25 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Nav from './Nav';
 
 import { Box } from '@mui/material';
+import Linha from './Linha.jsx';
+import Input from './Barra.jsx';
+import App2 from './App2.jsx';
 
 {/*Componente Home feito localmente*/ }
 const Inicio = () => (
-  <Box bgcolor="#f3d1a4" width="100%" height="100vh">
-    <h2>Inicio</h2>
-    <p>Bem-vindo à página inicial!</p>
+
+  <Box bgcolor="#EBE8E8"
+     width="100%"
+     height="100%"
+     display="flex"
+     flexDirection="column" >
+
+      <Linha/>
+      <Linha/>
+   
+      
   </Box>
+
 );
 
 {/*Componente About feito localmente*/ }
@@ -28,17 +40,10 @@ const Sobre = () => (
 {/*Componente About feito localmente*/ }
 const Categorias = () => (
   <Box bgcolor="#a4d3f5" width="100%" height="100vh">
-    <h2> Categorias </h2>
-    <p> Tipos</p>
+      <App2/>
+
   </Box>
 );
-
-
-
-
-
-
-
 
 {/*Componente App que gerencia as rotas da aplicação*/ }
 const App = () => {
@@ -46,11 +51,12 @@ const App = () => {
     <Router>
       <Nav />
       <Routes>
-        <Route path="/" element={<Inicio />} />
+        <Route path="/Inicio" element={<Inicio />} />
         <Route path="/Sobre" element={<Sobre />} />
         <Route path="/categorias" element={<Categorias />} />
         
-        
+    
+
       </Routes>
     </Router>
   );
