@@ -10,7 +10,7 @@ const Nav2 = () => (
 
       {/*Texto*/}
       <Typography variant="h6" style={{ flexGrow: 1 }}>
-        Meu_App
+        
       </Typography>
 
       {/*Botões que redirecionam para as rotas*/}

@@ -2,7 +2,9 @@ import React from "react";
 import styled from "styled-components";
 
 const Input = () => {
-  return (
+  function pesquisa (){
+    
+  } return (
     <StyledWrapper>
       <input
         placeholder="Buscar"

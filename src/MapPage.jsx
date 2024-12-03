@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import { Box, Button } from '@mui/material';
+import { Box, Button, } from '@mui/material';
 import { makeStyles } from '@mui/styles';
 
 const useStyles = makeStyles({
@@ -22,28 +22,24 @@ const MapPage = () => {
     };
 
     return (
-        <Box bgcolor="purple" width={'100%'} height={'100vh'} >
+        <Box bgcolor="white" width={'100%'} height={'100vh'} >
 
-            <Box height={'15%'} display={'flex'} justifyContent={'center'} alignItems={'center'} bgcolor={'lightblue'} >
+            <Box height={'10%'} display={'flex'} justifyContent={'center'} alignItems={'center'}  color={'white'} bgcolor={'#1976D2'} >
                 <h1>Categoria De Livros</h1>
             </Box>
-            <Box height={'75%'} display={'flex'} justifyContent={'center'} alignItems={'center'} bgcolor={'lightyellow'}>
+            <Box height={'70%'} display={'flex'} justifyContent={'center'} alignItems={'center'} bgcolor={'white'}>
                 <Button className={classes.button} onClick={() => handleRegionClick('Infantil')}>Infantil</Button>
                 <Button className={classes.button} onClick={() => handleRegionClick('Romance')}>Romance</Button>
                 <Button className={classes.button} onClick={() => handleRegionClick('Poesia')}>Poesia</Button>
                 <Button className={classes.button} onClick={() => handleRegionClick('Ficção')}>Ficção</Button>
                 <Button className={classes.button} onClick={() => handleRegionClick('Gibis')}>Gibis</Button>
+                <Button className={classes.button} onClick={() => handleRegionClick('Enem')}>Enem</Button>
             </Box>
 
-            <Box
-                width={'100%'}
-                height={'10%'}
-            >
-                <img src="src\Patrocinadores.png" alt="" width={'100%'} height={'100%'} />
-            </Box>
+         
 
         </Box>
     );
 };
 
-export default MapPage; ""
+export default MapPage; 

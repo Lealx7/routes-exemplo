@@ -1,379 +1,863 @@
 {
-    "Infantil": [
+ 
+    "Infantil":  {
+        "about": "O gênero literário infantil é voltado para o público jovem, especialmente crianças. Caracteriza-se por histórias simples, com vocabulário acessível e enredos que buscam entreter, ensinar e estimular a imaginação dos pequenos leitores. As narrativas costumam ter personagens cativantes, como animais falantes ou crianças aventureiras, e podem abordar temas como amizade, valores morais, superação e o mundo ao redor da criança.",
+        "books": [
         {
-            "name": "O pequeno principe",
+            "name": "O Pequeno Principe",
             "image": " https://i.ibb.co/mHw6ZYp/image.png ",
-            "description": "sinopse: o pequeno príncipe: Publicado pela primeira vez em 1942 nos Estados Unidos e, três anos mais tarde, na França, O pequeno príncipe tornou-se obra de apelo universal, um clássico moderno traduzido para mais de oitenta idiomas.",
+            "description": "Sinopse: Publicado pela primeira vez em 1942 nos Estados Unidos e, três anos mais tarde, na França, O pequeno príncipe tornou-se obra de apelo universal, um clássico moderno traduzido para mais de oitenta idiomas.",
+            "autor": "Autor: Antoine de Saint-Exupéry",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1jOq-obeGQ6P2xDeRaZAtwISQm4U02-Pl&export=download&authuser=0&confirm=t&uuid=75aeef66-3eb4-4e8e-b4b5-a5c0978f61eb&at=AN_67v21TwWLlEygQe65TGK4SPut:1729637292678"
         },
         {
-            "name": "Um castelo Assombrado",
+            "name": "Um Castelo Assombrado",
             "image": "https://i.ibb.co/KNRCR13/image-1.png ",
-            "description": "sinopse: um castelo bem assombrado: Era uma vez um castelo bem assombrado. De tão assustador, ninguém tinha coragem de passar por sua calçada, há muito tempo ele estava abandonado. O velho castelo ficava ao lado da casa de Júlia, uma menina corajosa, que não tinha medo algum.",
+            "description": "Sinopse: Era uma vez um castelo bem assombrado. De tão assustador, ninguém tinha coragem de passar por sua calçada, há muito tempo ele estava abandonado. O velho castelo ficava ao lado da casa de Júlia, uma menina corajosa, que não tinha medo algum.",
+            "autor": "Autor: Lícia Holanda",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1kLmFMxrxWuc8zvqBh5ZEhmgzcuCs-N3P&export=download&authuser=0&confirm=t&uuid=eb0795fa-c722-4adb-8baa-898718217579&at=AN_67v3ZsuVALMQbnkVKnTVfn3b0:1729637314312"
         },
         {
-            "name": " Os dois irmões ",
+            "name": " Os Dois irmãos ",
             "image": "https://i.ibb.co/cthsBPP/image-2.png",
-            "description": "sinopse: Os Dois Irmãos – Irmãos Grimm: Um conto clássico que narra a história de dois irmãos gêmeos que enfrentam desafios e aventuras em busca de fortuna e justiça. Com ilustrações encantadoras de Joel Lobo, esta obra é perfeita para estimular a imaginação infantil.",
+            "description": "Sinopse:  Um conto clássico que narra a história de dois irmãos gêmeos que enfrentam desafios e aventuras em busca de fortuna e justiça. Com ilustrações encantadoras de Joel Lobo, esta obra é perfeita para estimular a imaginação infantil.",
+            "autor": "Autor: Irmãos Grimm",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1a_xd2WUN_X3eLKokWPNe1HoCm4arl0Cs&export=download&authuser=0&confirm=t&uuid=9f0fc917-0b4f-4476-8b80-e74731a48bed&at=AN_67v33Tq4qgFk5lp-fCjt75eFN:1729637302285 "
         },
         {
-            "name": "A Chave do Tamanho ",
+            "name": "A Chave Do Tamanho ",
             "image": "https://i.ibb.co/gvzQRhp/image-4.png",
-            "description": "sinopse: A Chave do Tamanho: quando A Chave do Tamanho foi publicado pela primeira vez, em 1941, recebeu o subtítulo de “A maior reinação do mundo”. Isto porque é nele que Emília, nossa fantástica heroína de quarenta centímetros de altura, executa sua mais tremenda traquinagem.",
+            "description": "Sinopse: Quando A Chave do Tamanho foi publicado pela primeira vez, em 1941, recebeu o subtítulo de “A maior reinação do mundo”. Isto porque é nele que Emília, nossa fantástica heroína de quarenta centímetros de altura, executa sua mais tremenda traquinagem.",
+            "autor": "Autor: Monteiro Lobato",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1KT_YqdXlEVCwDSj86W2kN4nv-QMReW8k&export=download&authuser=0&confirm=t&uuid=2340d75b-7d76-4272-9a8a-09b25cab6b8d&at=AN_67v3WfH1enByfSsnOGjvX1lFz:1729637270739 "
         },
         {
             "name": "Rapunzel",
             "image": " https://i.ibb.co/GHgVC0n/image-4.png",
-            "description": "sinopse: Rapunzel: Colecione os mais famosos contos de princesas da literatura infantil de todos os tempos. Histórias de fantasias e de aventuras que estimulam a imaginação das crianças, educando por meio de preciosos ensinamentos.",
+            "description": "Sinopse: Colecione os mais famosos contos de princesas da literatura infantil de todos os tempos. Histórias de fantasias e de aventuras que estimulam a imaginação das crianças, educando por meio de preciosos ensinamentos.",
+            "autor": "Autor:Irmãos Grimm ",
             "recipeLink": "https://drive.usercontent.google.com/download?id=18vecbwPtmYTg9EZDbdMDddB1_zwEiBM3&export=download&authuser=0&confirm=t&uuid=6b12bb1d-4cb5-44b2-986a-3c044b12a381&at=AN_67v3A6FLS43a6lXiCBIBiVSqU:1729637307318 "
         },
         {
             "name": "Pula Pra ca Pula Pra la ",
             "image": "https://i.ibb.co/JWL48K8/image-5.png",
-            "description": "sinopse: pula pra ca pula pra la: Acompanhe as divertidas aventuras de um sapo aventureiro que sonha em explorar o mundo, saltando de um lugar para outro. Em cada pulo, uma nova descoberta e uma nova missão, levando o sapo a lugares incríveis, como a cidade de Caçapava.",
+            "description": "Sinopse: Acompanhe as divertidas aventuras de um sapo aventureiro que sonha em explorar o mundo, saltando de um lugar para outro. Em cada pulo, uma nova descoberta e uma nova missão, levando o sapo a lugares incríveis, como a cidade de Caçapava.",
+            "autor": "Autor: Jane Prado",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1fv54oF4-ngDtOMRFEp0KpA3diHPlaXnP&export=download&authuser=0&confirm=t&uuid=f6b93f58-2c48-4f9c-9cf2-1a9c28f4c130&at=AN_67v3mU_FiQ2NsI4jycRFuy2qx:1729637306392"
         },
         {
             "name": "Piadas infantis ",
             "image": " https://i.ibb.co/Ny1Kk77/image-20.png",
-            "description": "sinopse: Piadas Infantis – Vários Autores: Dizem que rir é o melhor remédio. E que uma gargalhada espanta o tédio. Quer se divertir e dar muita risada? Não perca tempo! Esta obra objetiva estimular na criança a imaginação criativa, o gosto pela leitura e o uso da memória através do humor.",
+            "description": "Sinopse: Dizem que rir é o melhor remédio. E que uma gargalhada espanta o tédio. Quer se divertir e dar muita risada? Não perca tempo! Esta obra objetiva estimular na criança a imaginação criativa, o gosto pela leitura e o uso da memória através do humor.",
+            "autor": "Autor: Vários Autores",
             "recipeLink": "https://drive.usercontent.google.com/download?id=16ausZhRn1OVWAsjfbY8sJqeg_QOfxR2H&export=download&authuser=0&confirm=t&uuid=854b3a65-2e97-4230-946a-03cc665f8ced&at=AN_67v1kjw0FSfRICE3y1t29BXyT:1729637303684"
         },
         {
-            "name": "Os três Porquinhos ",
+            "name": "Os Três Porquinhos ",
             "image": "https://i.ibb.co/mRwTsJn/image-21.png ",
-            "description": "sinopse: Os três porquinhos: Nesse clássico conto, os três porquinhos descobrem qual casa é realmente a mais forte quand o pequeno principe o pequeno principe o cada um enfrenta o lobo mau.",
+            "description": "Sinopse: Nesse clássico conto, os três porquinhos descobrem qual casa é realmente a mais forte quand o pequeno principe o pequeno principe o cada um enfrenta o lobo mau.",
+            "autor": "Autor: Marismar Borém ",
             "recipeLink": " https://drive.usercontent.google.com/download?id=11O-5kKN-MA9NZAQzRH0-ZAjOyb_9PRF8&export=download&authuser=0&confirm=t&uuid=699a0eb1-281c-49fe-9b13-6d0e5009e5e1&at=AN_67v3hh7oPTSEqmbg7wvMeeh-z:1729637300534"
         },
         {
-            "name": " Os musicos de breme...",
+            "name": " Os Musicos De Breme...",
             "image": "https://i.ibb.co/47DHtFw/image-22.png ",
-            "description": "sinopse: Os Músicos de Bremen: Era uma vez um burrinho que trabalhava duro, puxando carroças pesadas. Com o passar dos anos, começou a se sentir cada vez mais fraco.",
+            "description": "Sinopse: Era uma vez um burrinho que trabalhava duro, puxando carroças pesadas. Com o passar dos anos, começou a se sentir cada vez mais fraco.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1bjjwbRZ4k9KwL1J4x4QiWrlNJufESd0L&export=download&authuser=0&confirm=t&uuid=eb95fd0a-0ef3-4ba8-baec-712d9c5808e9&at=AN_67v2Bj2yXwx9KS5JP-G5pPlBW:1729637298172 "
         },
         {
-            "name": "O pobre e o rico",
+            "name": "O Pobre e o Rico",
             "image": "https://i.ibb.co/6RbbSV7/image-7.png",
-            "description": "sinopse: o pobre e o rico: Há muito tempo, Deus resolveu andar entre os mortais. Certa tarde, deparou-se com uma estrada, onde havia duas residências, uma rica e uma pobre.",
+            "description": "Sinopse: Há muito tempo, Deus resolveu andar entre os mortais. Certa tarde, deparou-se com uma estrada, onde havia duas residências, uma rica e uma pobre.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=10btHbAjnjdi89rbgNfEKt0nj9m4CGPje&export=download&authuser=0&confirm=t&uuid=1215bc32-17f6-459b-9212-0be52496372f&at=AN_67v2KMghBQPtXaacM9MkSjdtG:1729637295610 "
         },
         {
-            "name": "O patinho feio ",
+            "name": "O Patinho Feio ",
             "image": "https://i.ibb.co/xh3MVsN/image-8.png",
-            "description": "sinopse: o patinho feio: Em uma bonita manhã de outono, a pata Sofia construiu seu ninho de gravetos perto do lago. Então passou a chocar. E, depois de trinta e três dias, cinco de seis ovos se quebraram, e os filhotinhos nasceram",
+            "description": "Sinopse: Em uma bonita manhã de outono, a pata Sofia construiu seu ninho de gravetos perto do lago. Então passou a chocar. E, depois de trinta e três dias, cinco de seis ovos se quebraram, e os filhotinhos nasceram",
+            "autor": "Autor: Marismar Borém",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1rdUwoyNyTbpl1cPmpTE9nbmdO9X0xak1&export=download&authuser=0&confirm=t&uuid=171a0bd9-3863-4bed-8d1b-a695da03d4ac&at=AN_67v2jlhXQr0pzaFO8SPa2qOEd:1729637290545"
         },
         {
-            "name": "O jovem gigante",
+            "name": "O Jovem Gigante",
             "image": " https://i.ibb.co/6Dz2jPb/image-2.png",
-            "description": "sinopse: o jovem gigante: Era uma vez um filho de camponeses que não crescia mais do que sete centímetros. Um dia, como era habitual, o pai o levou para passear no campo.",
+            "description": "Sinopse: Era uma vez um filho de camponeses que não crescia mais do que sete centímetros. Um dia, como era habitual, o pai o levou para passear no campo.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1GTuaKFtQFHW-6657nChU5FtwezZZlABb&export=download&authuser=0&confirm=t&uuid=38d91b6b-a3c0-4232-a1a5-b75d8f0e5fcf&at=AN_67v006RXlYHFDFS0pXY2pT2Si:1729637289217 "
         },
         {
-            "name": "O gato de botas",
+            "name": "O Gato De Botas",
             "image": "https://i.ibb.co/n8wtK2R/image-3.png ",
-            "description": "sinopse: O gato de botas: O que você faria se ganhasse um gato como herança? E se descobrisse que esse gato sabe falar, gosta de botas e é muito, muito esperto?",
+            "description": "Sinopse: O que você faria se ganhasse um gato como herança? E se descobrisse que esse gato sabe falar, gosta de botas e é muito, muito esperto?",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1stoEQGPkKbaNuw3IqpkQjNj1QEeGyQYB&export=download&authuser=0&confirm=t&uuid=44b94e6d-9c7e-4674-a86a-6d4d12d2935c&at=AN_67v10a0J11Pr1rwxg1trcqyrH:1729637285615 "
         },
         {
-            "name": "O ganso de Ouro",
+            "name": "O Ganso De Ouro",
             "image": " https://i.ibb.co/wy6JHwg/image-23.png",
-            "description": "sinopse: O ganso de ouro: Esta obra conta a história de um ganso que é motivo de união para várias pessoas. O livro trata ainda do tema da partilha e da solidariedade entre as pessoas.",
+            "description": "Sinopse: Esta obra conta a história de um ganso que é motivo de união para várias pessoas. O livro trata ainda do tema da partilha e da solidariedade entre as pessoas.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1er7tPXQNrvpPaCrcQs_11kixzDMJIIdc&export=download&authuser=0&confirm=t&uuid=d593a7e7-e26b-4a8b-8519-f22b6b5715c5&at=AN_67v1gZRrNHMkxcu51-w5bHxpT:1729637284098 "
         },
         {
             "name": "O Enigma",
             "image": " https://i.ibb.co/hKfW9Z8/image-24.png",
-            "description": "sinopse: O enigma: Este conto de fadas retrata a história de um príncipe que resolveu viajar pelo mundo ao lado do seu mais fiel criado. Certo dia, o tempo escureceu, até que o príncipe se deu conta que ali não havia nenhum lugar para passar à noite.",
+            "description": "Sinopse: Este conto de fadas retrata a história de um príncipe que resolveu viajar pelo mundo ao lado do seu mais fiel criado. Certo dia, o tempo escureceu, até que o príncipe se deu conta que ali não havia nenhum lugar para passar à noite.",
+            "autor": "Autor: Irmãos Grimm",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1gH4Q5ABIko_gWg3bHrO0-WN9EnZspR83&export=download&authuser=0&confirm=t&uuid=4e0ad25a-5f22-45cf-b71d-6e77ed5a44f0&at=AN_67v0IrDQzb0XS-7ULWxZbVatv:1729637423811 "
         },
         {
             "name": "O Alfaiate Valente",
             "image": "https://i.ibb.co/dmGtShx/image-25.png ",
-            "description": "sinopse: o alfaite valente: Esta obra conta a história de um ganso que é motivo de união para várias pessoas. O livro trata ainda do tema da partilha e da solidariedade entre as pessoas.",
+            "description": "Sinopse: Esta obra conta a história de um ganso que é motivo de união para várias pessoas. O livro trata ainda do tema da partilha e da solidariedade entre as pessoas.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1sxAd4FHalvadkkzjbqEWydVVPd9tCNcF&export=download&authuser=0&confirm=t&uuid=732d468a-5592-4fbd-b1c6-8ea2d925d5c1&at=AN_67v2b7Lca_43j1mNW7VkmV_mn:1729637280659 "
         },
         {
             "name": "Cobras",
             "image": "https://i.ibb.co/8Yn88FS/image-26.png ",
-            "description": "sinopse: Cobras: No livro Cobras, vamos conhecer uma história com informações interessantes e úteis sobre o nosso mundo. Você vai perceber que a realidade pode ser tão incrível e bela quanto a fantasia.",
+            "description": "Sinopse: No livro Cobras, vamos conhecer uma história com informações interessantes e úteis sobre o nosso mundo. Você vai perceber que a realidade pode ser tão incrível e bela quanto a fantasia.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1oXyr8rA4fXkq1D1XKxnzQ8UV6X-J3LcU&export=download&authuser=0&confirm=t&uuid=1084a5c8-78ea-4393-ae57-e82d56e3b2c5&at=AN_67v1H8cgaU7bDXRjBs8EZInTo:1729637276362 "
         },
         {
-            "name": "Branca de Neve",
+            "name": "Branca De Neve",
             "image": " https://i.ibb.co/W2KWFqR/image-27.png",
-            "description": "sinopse: Branca de neve: Era uma vez uma princesa que se chamava Branca de Neve. Quando bebê, sua mãe faleceu, e seu pai se casou com outra mulher, que, embora fosse muito bonita, era cruel e vaidosa.",
+            "description": "Sinopse: Era uma vez uma princesa que se chamava Branca de Neve. Quando bebê, sua mãe faleceu, e seu pai se casou com outra mulher, que, embora fosse muito bonita, era cruel e vaidosa.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1K6BlQOWBMICF9nwVQN_pIIRqNet7YD6W&export=download&authuser=0&confirm=t&uuid=8da58cc8-5c8b-48ae-9776-4591ce563935&at=AN_67v2xG4W-XCwxv_-V2o36Y3z8:1729637273244 "
         },
         {
-            "name": "A Água da vida ",
+            "name": "A Água Da Vida ",
             "image": " https://i.ibb.co/xzrnd9f/image-28.png",
-            "description": "sinopse: A Água da Vida: Era uma vez um rei que adoeceu gravemente. Seus três filhos já não tinham mais esperanças. Porém, um velho jardineiro profetizou: A Água da Vida irá curá-lo.",
+            "description": "Sinopse: Era uma vez um rei que adoeceu gravemente. Seus três filhos já não tinham mais esperanças. Porém, um velho jardineiro profetizou: A Água da Vida irá curá-lo.",
+            "autor": "Autor: Ricardo Filho",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1idsjsz6KULi1J0DZaeaI2p25BJcAs6FL&export=download&authuser=0&confirm=t&uuid=8386a934-2270-4fc3-8cd5-77c006bd5fd2&at=AN_67v0rPpMiRNGwKElmGM203vlx:1729637266916"
         },
         {
-            "name": "Arco-Iriís ",
+            "name": "Arco-Irís ",
             "image": "https://i.ibb.co/cFZLzRF/image-29.png ",
-            "description": "sinopse: A Água da Vida: Era uma vez um rei que adoeceu gravemente. Seus três filhos já não tinham mais esperanças. Porém, um velho jardineiro profetizou: A Água da Vida irá curá-lo.",
+            "description": "Sinopse: Era uma vez um rei que adoeceu gravemente. Seus três filhos já não tinham mais esperanças. Porém, um velho jardineiro profetizou: A Água da Vida irá curá-lo.",
+            "autor": "Autor: Bruna Lima",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1idsjsz6KULi1J0DZaeaI2p25BJcAs6FL&export=download&authuser=0&confirm=t&uuid=8386a934-2270-4fc3-8cd5-77c006bd5fd2&at=AN_67v0rPpMiRNGwKElmGM203vlx:1729637266916"
         }
-    ],
-    "Romance": [
+    ]
+    },
+    "Romance": {
+    "about": "O romance é um gênero literário que foca nas relações humanas, especialmente no amor. As narrativas geralmente exploram os sentimentos dos personagens, seus dilemas e desenvolvimento ao longo da trama. Pode abordar temas variados, incluindo conflitos internos, crescimento pessoal e adversidades enfrentadas pelos protagonistas.",
+    "books": [
         {
-            "name": "O processo ",
+            "name": "O Processo ",
             "image": " https://i.ibb.co/9VtQ1WF/image-20.png",
-            "description": "sinopse: O Processo: A história de Josef K. atravessa os anos sem perder nada do seu vigor. Ao contrário, a banalização da violência irracional no século XX acrescentou a ela o fascínio dos romances realistas. Na sua luta para descobrir por que o acusam, por quem é acusado e que lei ampara a acusação.",
+            "description": "Sinopse: A história de Josef K. atravessa os anos sem perder nada do seu vigor. Ao contrário, a banalização da violência irracional no século XX acrescentou a ela o fascínio dos romances realistas. Na sua luta para descobrir por que o acusam, por quem é acusado e que lei ampara a acusação.",
+            "autor": "Autor: Franz Kafka",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1sZi_wksljxW_0mKsf67qW_s37BZtThiK&export=download&authuser=0&confirm=t&uuid=fc59f0e3-f449-4c72-92eb-95bc80d4344f&at=AN_67v22kfemocT91BJ3257FIjXL:1729635726359"
         },
         {
             "name": "O Cortiço",
             "image": "https://i.ibb.co/mRyqsg6/image-21.png ",
-            "description": "sinopse: O Cortiço: A obra-prima de Aluísio de Azevedo, O Cortiço, é a principal referência da estética realista-naturalista na literatura brasileira. Ambição e exploração se misturam nessa envolvente e sombria história de uma habitação coletiva da capital do Segundo império. ",
+            "description": "Sinopse: A obra-prima de Aluísio de Azevedo, O Cortiço, é a principal referência da estética realista-naturalista na literatura brasileira. Ambição e exploração se misturam nessa envolvente e sombria história de uma habitação coletiva da capital do Segundo império. ",
+            "autor": "Autor: Aluisio Azevedo ",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1wRadlnuNFS9AcgPeWwslR5yYVzWIDIZG&export=download&authuser=0&confirm=t&uuid=23ebc8eb-89bf-4850-b63f-7feb2417c829&at=AN_67v3GVDVblLXxZjbciUf2LVWm:1729634688268 "
         },
         {
-            "name": "Memorias Postumadas",
+            "name": "Memorias Postumas...",
             "image": "https://i.ibb.co/3YnPdyG/image-22.png ",
-            "description": "sinopse: Memórias Póstumas: A publicação de “Memórias Póstumas de Brás Cubas” não só inaugura o Realismo no Brasil, como inicia a etapa mais complexa da obra de Machado de Assis. Com ela, aprofunda-se a sua análise da realidade e refina-se a sua linguagem.",
+            "description": "Sinopse: A publicação de “Memórias Póstumas de Brás Cubas” não só inaugura o Realismo no Brasil, como inicia a etapa mais complexa da obra de Machado de Assis. Com ela, aprofunda-se a sua análise da realidade e refina-se a sua linguagem.",
+            "autor": "Autor: Machado De Assis",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1orBPzsAj0D3TsVaRqqsfjpmrusorf7Hp&export=download&authuser=0&confirm=t&uuid=6717eac2-2347-4f67-84d4-c33ff00d80db&at=AN_67v0KsXXM33QT0VmgCI4VHQcH:1729635900025"
         },
         {
             "name": "Iracema",
             "image": "https://i.ibb.co/LRPSJtF/image-23.png ",
-            "description": "sinopse: Iracema:Esta obra, tida como uma das mais belas da literatura brasileira, conta a história de amor entre uma índia tabajara e um guerreiro português. O enredo é uma alegoria da colonização do país, e a protagonista simboliza a união entre o homem e a natureza.",
+            "description": "Sinopse: Esta obra, tida como uma das mais belas da literatura brasileira, conta a história de amor entre uma índia tabajara e um guerreiro português. O enredo é uma alegoria da colonização do país, e a protagonista simboliza a união entre o homem e a natureza.",
+            "autor": "Autor: José De Alencar",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1b3pzvkTAYmYmFZGVUoLG6PVmur-UIUuM&export=download&authuser=0&confirm=t&uuid=19f5bb19-ae65-4a99-8d21-9091aabd7053&at=AN_67v3PLi8XjN081Y1gxXwmrmN5:1729634692166"
         },
         {
             "name": "Iliada ",
             "image": "https://i.ibb.co/dQ4d16j/image-31.png ",
-            "description": "sinopse: Iliada: Livro fundador da literatura ocidental que narra a tragédia de Aquiles e a Guerra de Troia. Primeiro livro da literatura ocidental, a Ilíada parece se tratar, pelo título, apenas de um breve incidente ocorrido no cerco dos gregos à cidade troiana de Ílion, a crônica de aproximadamente cinquenta dias de uma guerra que durou dez anos.",
+            "description": "Sinopse: Livro fundador da literatura ocidental que narra a tragédia de Aquiles e a Guerra de Troia. Primeiro livro da literatura ocidental, a Ilíada parece se tratar, pelo título, apenas de um breve incidente ocorrido no cerco dos gregos à cidade troiana de Ílion.",
+            "autor": "Autor: Homero",
             "recipeLink": " https://drive.usercontent.google.com/download?id=15VUd6TOPC3M3u-43OqQ634uJuWy19l4G&export=download&authuser=0&confirm=t&uuid=c57e9944-e8b7-4333-8623-eec8299b663a&at=AN_67v1Hfw4-JuI9jqH6pkPdloyb:1729635978552"
         },
         {
             "name": "Dracula",
             "image": " https://i.ibb.co/bRPpqKX/image-24.png",
-            "description": "sinopse: Dracula: Um clássico da literatura gótica que narra a história do Conde Drácula e sua tentativa de se mudar da Transilvânia para a Inglaterra, a fim de espalhar a praga dos mortos-vivos. A história é contada através de cartas, diários e jornais, envolvendo personagens icônicos como Jonathan Harker e Mina Murray.",
+            "description": "Sinopse: Um clássico da literatura gótica que narra a história do Conde Drácula e sua tentativa de se mudar da Transilvânia para a Inglaterra, a fim de espalhar a praga dos mortos-vivos. A história é contada através de cartas, diários e jornais, envolvendo personagens icônicos como Jonathan Harker e Mina Murray.",
+            "autor": "Autor: Bram Stoker",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1GDwLhuO4_TAuPtBF8pX5MceqRjK7pKhX&export=download&authuser=0&confirm=t&uuid=05c4a57f-ddc2-4614-a29d-4fa87a8034b3&at=AN_67v0zuv-marSVULEhYFaKb05R:1729635080047 "
         },
         {
             "name": "Dom Casmurro",
             "image": "https://i.ibb.co/BK0KMR2/image-25.png ",
-            "description": "sinopse: Dom Casmurro: Dom Casmurro, um dos romances mais conhecidos do autor, foi publicado pela primeira vez em 1900. Bentinho, Capitu e Escobar são os protagonistas do enigmático triângulo amoroso criado por Machado de Assis e já fazem parte de nosso imaginário.",
+            "description": "Sinopse: Dom Casmurro, um dos romances mais conhecidos do autor, foi publicado pela primeira vez em 1900. Bentinho, Capitu e Escobar são os protagonistas do enigmático triângulo amoroso criado por Machado de Assis e já fazem parte de nosso imaginário.",
+            "autor": "Autor: Machado de Assis",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1TLtOz_JR_kN-djxeqT5giRH4kejGoOOt&export=download&authuser=0&confirm=t&uuid=0c0f2204-2660-4e3b-992e-93ac60b53ed4&at=AN_67v1CsaPOekhbwbb3QEfQyJZ-:1729634694228 "
         },
         {
-            "name": "Crime no Campo d Golpe",
+            "name": "Crime no Campo de Golf",
             "image": "https://i.ibb.co/yBf5hf8/image-26.png",
-            "description": "sinopse: Crime no campo de golfe: Em seu terceiro livro, Agatha Christie, a escritora dos romances policiais, aborda também o tema do amor. Claro que o assassinato envolto em muito mistério e suspense ainda é o prato principal da Rainha do Crime, mas seu Assassinato no campo de golfe.",
+            "description": "Sinopse: Em seu terceiro livro, Agatha Christie, a escritora dos romances policiais, aborda também o tema do amor. Claro que o assassinato envolto em muito mistério e suspense ainda é o prato principal da Rainha do Crime, mas seu Assassinato no campo de golfe.",
+            "autor": "Autor: Agatha Chritie",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1d6gtENFM-2yFoR6yZmQYbtZC1MAv2zrj&export=download&authuser=0&confirm=t&uuid=5eae1a46-9fb9-4190-a1ac-537d62929c57&at=AN_67v3GtzIlugwCb6NULnoKgbj7:1729634697919 "
         },
         {
-            "name": "Apenas Uma Tentativa",
+            "name": "Apenas mais Uma Tentativa",
             "image": "https://i.ibb.co/RzLdKsY/image-27.png ",
-            "description": "sinopse: Apenas uma tentativa: Uma brasileira chamada Elizabeth entra em uma enrascada em Nova York, ela conhece um pintor mundialmente famoso chamado Aaron que lhe oferece ajuda, mas ela ira descobrir que esse homem gentil não é oque parece ser.",
+            "description": "Sinopse: Uma brasileira chamada Elizabeth entra em uma enrascada em Nova York, ela conhece um pintor mundialmente famoso chamado Aaron que lhe oferece ajuda, mas ela ira descobrir que esse homem gentil não é oque parece ser.",
+            "autor": "Autor: Luana Karoline",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1ly8JEfUas_AbDPc2rFSgRDPQOOSWJb4U&export=download&authuser=0&confirm=t&uuid=8534ef7a-c4a6-425d-95ea-3f88ed071a4e&at=AN_67v3YnvD5AMgbeldh4gw-Swvu:1729634700286"
         },
         {
-            "name": "Viajem ao centro ",
+            "name": "Viajem ao Centro da Terra ",
             "image": " https://i.ibb.co/3M7nLX0/image-28.png",
-            "description": "sinopse: Viagem no centro da terra: Um pergaminho escrito a mão com letras rúnicas escorrega de um livro de 700 anos. Traz a mensagem que motiva o professor Lidenbrock e seu sobrinho Axel a partirem de Hamburgo, na Alemanha, para a mais estranha e arriscada expedição científica do século XIX!",
+            "description": "Sinopse: Um pergaminho escrito a mão com letras rúnicas escorrega de um livro de 700 anos. Traz a mensagem que motiva o professor Lidenbrock e seu sobrinho Axel a partirem de Hamburgo, na Alemanha, para a mais estranha e arriscada expedição científica do século XIX!",
+            "autor": "Autor: Júlio Verne ",
             "recipeLink": " https://drive.usercontent.google.com/download?id=13fGj-5xqK1DNQK-dtVphRQZBK_ELLFjs&export=download&authuser=0&confirm=t&uuid=8ba54bcb-29ba-4611-bc9f-e502b337bce4&at=AN_67v1gdSur_N-gFfsooqZLzW6P:1729635993967"
+        },
+        {
+            "name": "Quando as Mulheres Atiram ",
+            "image": "https://i.ibb.co/kxvv3jd/image-91.png ",
+            "description": "Sinopse: O amor de Nanny por rob era inabalavel, mas silencioso, o seu mundo acabou, quando descubriu que Rob, mandara vir do leste a sua futura esposa, Naany não conseguia entender como poderia Rob querer casar justo com a amada de seu irmão Joe.",
+            "autor": "Autor:M. L. Estefania ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Ouro Sangrento ",
+            "image": "https://i.ibb.co/k8gjC1Y/image-92.png ",
+            "description": "Sinopse: Rod era um caçador e gostava da solidão da montanha. A paz com os índios que viviam na- quelas terras, apesar de tênue estava se mantendo. Mas a estrada de ferro e a corrida do ouro estavam trazendo a civilização para as montanhas, e nem sempre as pessoas que estavam povoando as cidades.",
+            "autor": "Autor: M. L. Estefania ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Mulheres Vendidas ",
+            "image": "https://i.ibb.co/jWHqrjH/image-2024-11-28-T185435-213.png ",
+            "description": "Sinopse: : Quando slate chicoteou a mexicana Juanita, pensou que a tivesse matado. Mark Daniel a encontrou morimbunda e ela disse o nome do assassino: Slate. Desencadeando assim um jogo de gato e rato pelo deserto, terminando em Corona City.",
+            "autor": "Autor: Gordon Lumas ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Gosto de Pólvora  ",
+            "image": "https://i.ibb.co/wJXJXzk/image-2024-11-28-T185437-857.png ",
+            "description": "Sinopse: Ben era um garoto de 16 anos que estava apaixonado por uma garota da vizinhança. Ao se deparar com a cena em que ela estava sendo atacada por malfeitores a salva. Após o ataque ela morre a caminho do médico. Após isso ele e a família são atacados a noite por mais malfeitores e ele os enfrenta e mata todos",
+            "autor": "Autor: Herman Tellgon ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Fibra de Herói ",
+            "image": "https://i.ibb.co/Wf5Rr4J/image-95.png ",
+            "description": "Sinopse: Os pesadelos de Betty a Vibora, como era conhecida em Portland, começaram quando Donald, amigo de john, sobrinho de Ben chegou na cidade. Betty dominava o negocio dos cabarés, o trafico de mulheres brancas era usual por estas bandas.",
+            "autor": "Autor:  M. L. Estefania ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Eternamente Voçê ",
+            "image": "https://i.ibb.co/1fpZxcF/image-96.png ",
+            "description": "Sinopse: Eternamente você é um conto gratuito que se passa entre os livros 1 e 2 da trilogia que se iniciou com Desejo proibido. Em meio a esse turbilhão, será que Carter e Kat vão conseguir manter a chama da paixão acesa?",
+            "autor": "Autor: Sophie jackson",
+            "recipeLink": ""
+        },
+        {
+            "name": "A Visita do Diabo  ",
+            "image": "https://i.ibb.co/j8dCS4Q/image-97.png ",
+            "description": "Sinopse:Localizada no maciço montanhoso do Grande Canyon Junction, Birlins já viveu dias de paz… Até a chegada de Charles King e seu bando, instalando o medo no pequeno povoado. Eram bandidos perigosos, mas que só agiam de acordo com as ordens do líder.",
+            "autor": "Autor: Lucky Marty ",
+            "recipeLink": ""
+        },
+        {
+            "name": "A Morte é Sua Companheira ",
+            "image": "https://i.ibb.co/Rztp193/image-98.png ",
+            "description": "Sinopse: Clint Garret, o Pistoleiro dos Olhos Azuis, pacificador de cidades; exterminados de bandidos. Justiceiro! A maldição de uma mulher morta sob o fogo do seu revólver o transforma num cavalheiro solitário em busca da paz. Mas o destino quer que ele seja sempre um matador!",
+            "autor": "Autor:  Adam Surray ",
+            "recipeLink": ""
+        },
+        {
+            "name": "A Diligência do Além  ",
+            "image": "https://i.ibb.co/Qbqy2gB/image-99.png ",
+            "description": "Sinopse: Contratado para proteger a herdeira da companhia de diligências, o pistoleiro profissional Clint Jordan precisava encontrar provas contra o autor dos ataques freqüentes que a companhia de Leslie sofria. Com a ajuda de um amigo.",
+            "autor": "Autor: Kent Davis ",
+            "recipeLink": ""
+        },
+        {
+            "name": "Da Terra à Lua ",
+            "image": "https://i.ibb.co/J3cg41r/image-100.png ",
+            "description": "Sinopse: O Clube do Canhão quer construir a maior arma de guerra já vista. O objetivo: mandar um projétil à Lua! Nessa homenagem em formato de história em quadrinhos, o escritor e quadrinista Estevão Ribeiro reúnem em uma única narrativa os clássicos de Júlio Verne (Da Terra à Lua).",
+            "autor": "Autor: Júlio Verne ",
+            "recipeLink": ""
         }
-    ],
-    "Poesia": [
+
+    ]
+},
+    "Poesia": {
+    "about": "A poesia explora uma variedade de temas, como amor, natureza, existencialismo, e aspectos da condição humana. É um gênero que busca provocar sensações no leitor por meio da escolha cuidadosa das palavras, utilizando metáforas, aliterações, e outras técnicas para enriquecer o significado e gerar impacto emocional. Além disso, a poesia pode ser tanto clássica, com formas fixas como sonetos, quanto livre, sem restrições de estrutura.",
+    "books": [
         {
             "name": "Sonetos e Poemas ",
             "image": "https://i.ibb.co/7rG4f4d/image.png",
-            "description": "sinopse: Árcade e pré-romântico, Bocage foi um dos primeiros a anunciar a odernidade em Portugal, pelos conflitos que dão força e contundência a seu estilo poético. Maior poeta da língua portuguesa no século XVIII, Bocage é vítima até hoje de sua própria fama e dos preconceitos que despertou. Sonetista admirável e frequentemente à altura de seu ídolo Camões, excede-o aqui e ali no arrojo e no niilismo dos motivos. Seus versos eróticos e burlescos circulam até hoje em edições clandestinas. Bocage publicou apenas as Rimas(1791-1804).Poetas devem jogar poemas no lixo: Poetas devem jogar poemas no lixo é uma obra de Nelson Lima, publicada em 2006 no Rio de Janeiro. ",
+            "description": "Sinopse: Árcade e pré-romântico, Bocage foi um dos primeiros a anunciar a odernidade em Portugal, pelos conflitos que dão força e contundência a seu estilo poético. Maior poeta da língua portuguesa no século XVIII, Bocage é vítima até hoje de sua própria fama e dos preconceitos que despertou. ",
+            "autor": "Autor: Bocage",
             "recipeLink": "https://drive.usercontent.google.com/download?id=16Ve7Xz_adqUJPmta-HAg8IQUp095uOYe&export=download&authuser=0&confirm=t&uuid=f21ee1f0-fbe7-4730-85e3-32e5cef58f90&at=AN_67v2KhsTbsSYf6i4AG1NIRyNN:1729209261653"
-        },
-        {
-            "name": "Poemas no Lixo",
-            "image": "https://i.ibb.co/VJGhKj4/Coraline.jpg",
-            "description": "sinopse: ",
-            "recipeLink": "https://drive.usercontent.google.com/download?id=1ODM8-21e_q05_xei0gY5kYMTghiqIuDV&export=download&authuser=0&confirm=t&uuid=ac8c4a12-1cd6-488b-be7a-c6f9adeaae37&at=AN_67v3W4xR4IY0wQnASnZy0xD2e:1729209276697"
         },
         {
             "name": "Poesia da Morte",
             "image": "https://i.ibb.co/fv67F0c/image-1.png",
-            "description": "sinopse: Poesia da Morte: Poesia da Morte é uma obra profundamente reflexiva que mergulha corajosamente nas complexidades e mistérios que cercam a temática mais enigmática de todas: a morte. Este livro desafia a visão convencional da morte como um evento sombrio e final, transformando-a em um campo fértil para a contemplação poética.",
+            "description": "Sinopse: Poesia da Morte é uma obra profundamente reflexiva que mergulha corajosamente nas complex e mistérios que cercam a temática mais enigmática de todas: a morte.",
+            "autor": "Autor: Emílio De Menezes",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1JEqhGoP44zXzeeNG52ZfBJr2CvgeFv87&export=download&authuser=0&confirm=t&uuid=f0a85405-d710-42aa-a819-9189f1547d5b&at=AN_67v237E-V9qc6Ek0LTTa54o-f:1729209278782"
         },
         {
-            "name": "Safo",
+            "name": "Poemas-Safo",
             "image": "https://i.ibb.co/r3dBJtx/image-2.png",
-            "description": "sinopse: Poemas Safo: Nas versões que Eugénio de Andrade fez dos seus Poemas e Fragmentos, Safo transporta-nos com um enlevo mágico para o reino do amor extático, onde cada matiz impresso pela mestria do poeta português realça e multiplica a natureza sublime da poeta grega.",
+            "description": "Sinopse: Nas versões que Eugénio de Andrade fez dos seus Poemas e Fragmentos, Safo transporta-nos com um enlevo mágico para o reino do amor extático, onde cada matiz impresso pela mestria do poeta português realça e multiplica a natureza sublime da poeta grega.",
+            "autor": "Autor: Safo",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1mlfievNkbZ2iEu371XTRpEFSt76rmhZi&export=download&authuser=0&confirm=t&uuid=fd94e360-afbd-4cbb-a349-9271d0392bf6&at=AN_67v042_YZvOnVtP6WRrcuzJFS:1729209280103"
         },
         {
-            "name": "Fagudes Varella I",
+            "name": "Poemas Fagudes Varella I",
             "image": "https://i.ibb.co/JcZFjwc/image-3.png",
-            "description": "sinopse: poemas fagundes varella: Os poemas de Fagundes Varela abordam temas como a solidão, a melancolia, a angústia, a desilusão e o desengano. O poeta, considerado um dos grandes do romantismo brasileiro, também aborda temas abolicionistas e religiosos. ",
+            "description": "Sinopse: Os poemas de Fagundes Varela abordam temas como a solidão, a melancolia, a angústia, a desilusão e o desengano. O poeta, considerado um dos grandes do romantismo brasileiro, também aborda temas abolicionistas e religiosos. ",
+            "autor": "Autor: Fagudes Varela",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1FVjTIeaR7GWaQN6oZIf16XPrzyZH-Gda&export=download&authuser=0&confirm=t&uuid=5d5b8399-d1b3-412d-8bf2-018f257e7d72&at=AN_67v15tdlaBqM4QeW7romNC5w0:1729209282905"
         },
         {
-            "name": "Fagudes II",
+            "name": "Poemas Fagudes II",
             "image": "https://i.ibb.co/z76tgX5/image-6.png",
-            "description": "sinopse: poemas de Fagundes Varela: A poesia de Fagundes Varela (1841-1875) é marcada por angústia, sofrimento, desilusão, melancolia e solidão. O poeta carioca abordou temas sociais, políticos, abolicionistas e religiosos, e é considerado um autor de transição entre a segunda e a terceira geração romântica.  ",
+            "description": "Sinopse: A poesia de Fagundes Varela (1841-1875) é marcada por angústia, sofrimento, desilusão, melancolia e solidão. O poeta carioca abordou temas sociais, políticos, abolicionistas e religiosos, e é considerado um autor de transição entre a segunda e a terceira geração romântica.  ",
+            "autor": "Autor: Fagudes Varela",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1DS37ptdYPssUkNpVwd_lulXjxbJuRRv7&export=download&authuser=0&confirm=t&uuid=30751f59-5968-4edf-8bf7-b6362377c744&at=AN_67v35u7U3zV7pmbwXLpctu3UE:1729209288821"
         },
         {
-            "name": "Traduzidos",
+            "name": "Poemas Traduzidos",
             "image": "https://i.ibb.co/X3zn4WD/image-4.png",
-            "description": "sinopse: poemas traduzidos: O poema é um gênero textual e literário que tem como finalidade expressar sentimentos, emoções e pensamentos de quem escreve. A estrutura básica de um poema contém versos, estrofes, rimas e ritmo.",
+            "description": "Sinopse: O poema é um gênero textual e literário que tem como finalidade expressar sentimentos, emoções e pensamentos de quem escreve. A estrutura básica de um poema contém versos, estrofes, rimas e ritmo.",
+            "autor": "Autor: Fernando Pessoa",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1fb8JuCZahAlEejscujUGLl1lKuyn_hHw&export=download&authuser=0&confirm=t&uuid=75db1394-1364-42a8-9e61-45c0b5f046f6&at=AN_67v1N5uag7HK1-k8mjdEGkVEE:1729209287278"
         },
         {
-            "name": "Humoristicos",
+            "name": "Poemas Humoristicos",
             "image": "https://i.ibb.co/D7W2N92/image-5.png ",
-            "description": "sinopse: poemas humoristicos e irônicos: Poemas Humorísticos e Irônicos é uma antologia que reúne versos que se destacam pelo humor e pela ironia. O livro explora essas categorias literárias, que foram muito importantes para o romantismo",
+            "description": "Sinopse: Poemas Humorísticos e Irônicos é uma antologia que reúne versos que se destacam pelo humor e pela ironia. O livro explora essas categorias literárias, que foram muito importantes para o romantismo",
+            "autor": "Autor: Cruz E Souza",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1fb8JuCZahAlEejscujUGLl1lKuyn_hHw&export=download&authuser=0&confirm=t&uuid=75db1394-1364-42a8-9e61-45c0b5f046f6&at=AN_67v1N5uag7HK1-k8mjdEGkVEE:1729209287278"
         },
         {
             "name": "Poema de C.Manuel",
             "image": "https://i.ibb.co/xhMY5d4/image-7.png ",
-            "description": "sinopse: poemas de claudio manuel da costa: A poesia de Cláudio Manuel da Costa é marcada por melancolia e desencanto, e é caracterizada por um contraste entre a vida da metrópole e o ambiente das Minas Gerais. O poeta extraía tristeza de tudo, como da fugacidade das coisas e da ausência da amada. ",
+            "description": "Sinopse: A poesia de Cláudio Manuel da Costa é marcada por melancolia e desencanto, e é caracterizada por um contraste entre a vida da metrópole e o ambiente das Minas Gerais. O poeta extraía tristeza de tudo, como da fugacidade das coisas e da ausência da amada. ",
+            "autor": "Autor: Claudio Manoel da Costa",
             "recipeLink": "hhttps://drive.usercontent.google.com/download?id=1h2b2QUp5zcwU4Kg_5V61l3kXXnNcmx02&export=download&authuser=0&confirm=t&uuid=3d68e27e-6cf7-4753-9999-81a63e1132e2&at=AN_67v3o3UWWE4wRdZVVE0Kv4rj3:1729210658950"
         },
         {
-            "name": "Poema de Alvaro",
-            "image": " https://i.ibb.co/s9yNczg/image-8.png",
-            "description": "sinopse: poemas de alvaro de campos: A poesia de Álvaro de Campos, um dos heterônimos de Fernando Pessoa, é marcada por traços modernistas, futuristas, niilismo, revolta, inconformismo, desumanização e desilusão.",
-            "recipeLink": "https://drive.usercontent.google.com/download?id=1GfQ3EvGbzHdgDldiuE3JG56nASQg_aDC&export=download&authuser=0&confirm=t&uuid=a83a1bc7-7663-4708-9ac5-a90b129b1eba&at=AN_67v0-Sr2rm_6sxFs9my6A3t87:1729209293205"
+            "name": "Desassocego",
+            "image": "https://i.ibb.co/YbwKsYX/image-1-1.png ",
+            "description": "Sinopse: Esta obra, atribuída ao heterônimo Bernardo Soares, é uma mistura de diário, reflexões filosóficas e fragmentos de pensamentos. É um relato de um estado de inquietação constante, um mergulho na psique de alguém que vive em busca de sentido. ",
+            "autor": "Autor: Bernado Soares (Fernando Pessoa)",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1phfTb2OGqvwNl_67MA3JUxL8-58kK8jN&export=download&authuser=0&confirm=t&uuid=b509d482-855d-49b5-bae3-ad51d2702865&at=AENtkXaRqAbLMcL_-ODrg9HE70lc:1731628161650 "
+        },
+        {
+            "name": "Cacioneiro",
+            "image": "https://i.ibb.co/7VLWVdJ/image-40.png ",
+            "description": "Sinopse: Obra atribuída ao heterônimo Álvaro de Campos. São versos intensos e emotivos, que exploram sentimentos de exaltação,  melancolia e reflexão sobre a vida moderna. A obra reflete a visão de Campos sobre a industrialização, a tecnologia e os dilemas existenciais. ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1EbMEShcjprGozOsd0N1LgMAPpZmSYRR7&export=download&authuser=0&confirm=t&uuid=df8d1840-04fa-4cd1-b5dd-1676b1af3606&at=AENtkXbFfiNARUpp72rlv6f8_uID:1731628435590"
+        },
+        {
+            "name": "Mensagem",
+            "image": "https://i.ibb.co/zZFMVpq/image-39.png ",
+            "description": "Sinopse: Único livro de poesia publicado por Fernando Pessoa sob seu próprio nome. Composto por poemas patrióticos, é uma reflexão sobre o destino de Portugal, combinando temas históricos, mitológicos e místicos. ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1kCjwUEH-eBGKwZ5Ml1MfnFIVZ5byE2W8&export=download&authuser=0&confirm=t&uuid=85189d1d-6fd2-4954-96d8-8a0ebd2cc789&at=AENtkXYL9VEgJFDsh2Zw1URrhfXx:1732054400962 "
+        },
+        {
+            "name": "O Banqueiro Anarquista",
+            "image": "https://i.ibb.co/mJsRjC7/download-1.png",
+            "description": "Sinopse: No enredo, um banqueiro explica, de forma racional, como é possível ser anarquista e banqueiro ao mesmo tempo, desafiando as convenções do pensamento político e econômico.  ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1vq-edkki2xkB77Py4wnq1SOLS322Ccsl&export=download&authuser=0&confirm=t&uuid=a68a6c41-d9dd-4fd7-b6d2-1ef302dab327&at=AENtkXZo8aZuYCurYyX8is-66Wd-:1731628897570 "
+        },
+        {
+            "name": "O Guardador de Rebanhos",
+            "image": "https://i.ibb.co/3d7qHGt/image-41.png ",
+            "description": "Sinopse:Uma obra atribuída ao heterônimo Alberto Caeiro, que é considerado o mestre dos outros heterônimos de Pessoa. Os poemas desse livro são simples e líricos, com uma visão de mundo focada na natureza e na experiência sensorial direta. ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=1RmBfZ6I8-e6kmMIdamyNvv8xjD9Zz_EQ&export=download&authuser=0&confirm=t&uuid=e84e0660-ed39-4354-87b9-74d59e42907e&at=AENtkXZIkCkIXM8dLWN4IfZ89PNP:1731628894933"
+        },
+        {
+            "name": "O Pastor Amoroso",
+            "image": "https://i.ibb.co/85Yrhxz/image-42.png",
+            "description": "Sinopse: Poema de Alberto Caeiro, O Pastor Amoroso apresenta um retrato sensível e emocional de um amor idealizado, muitas vezes comparado à pureza e simplicidade da vida pastoral.  ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=141pBatXmELPheToBnIYlLxnfDMeAzGRb&export=download&authuser=0&confirm=t&uuid=b1361c6f-4a38-41de-8d1b-f274905022b1&at=AENtkXbZiffxARxtx-BrxGMifMcj:1731629007022"
+        },
+        {
+            "name": "Poemas de Ricardo Reis",
+            "image": " https://i.ibb.co/tDwFBNY/image-43.png",
+            "description": "Sinopse: Poemas estoicos de Ricardo Reis, que abordam temas como o tempo, a transitoriedade da vida e a busca pela serenidade. ",
+            "autor": "Autor: Ricardo Reis (Fernando Pessoa)",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=1KbSkmWhsW30pQRW6eaPd1i5uRnpAdu0t&export=download&authuser=0&confirm=t&uuid=f1b4fb6a-7360-4441-a090-d0cc1ed39a0a&at=AENtkXZkLiYZTosJ-hBxcJtaQ6Mk:1731629010926"
+        },
+        {
+            "name": " Poema de Ricardo Reis II",
+            "image": "https://i.ibb.co/Qcz1scJ/image-44.png ",
+            "description": "Sinopse:  Continuação da obra de Ricardo Reis, aprofundando reflexões sobre a aceitação do destino e o prazer simples da vida.",
+            "autor": "Autor: Ricardo Reis (Fernando Pessoa)",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=1EEEF_L_wm-DAisw9I70jckeRv-CeGX1x&export=download&authuser=0&confirm=t&uuid=29e9153c-91b3-442f-a538-414df83db40e&at=AENtkXZ8ZmRH5CCK00fFlruTbauF:1731629014047"
+        },
+        {
+            "name": "Poesias Inéditas",
+            "image": " https://i.ibb.co/hc0z5y8/image-45.png",
+            "description": "Sinopse:  Esta coletânea reúne poemas de Fernando Pessoa que não haviam sido publicados durante sua vida. A obra traz uma variedade de estilos e formas poéticas, com destaque para as transições entre os diferentes heterônimos de Pessoa. ",
+            "autor": "Autor: Fernando Pessoa",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=1FDh4Vttq0EGjaxDWmnAkdbHNXm7e_92b&export=download&authuser=0&confirm=t&uuid=7d0dd696-c41a-41e6-b140-94fd6682aa38&at=AENtkXZ8c_ZBRRzjKZiLlkGz9AxS:1731629022013"
+        },
+        {
+            "name": " Poemas de Alvaro Campos",
+            "image": "https://i.ibb.co/RCLXHfJ/image-46.png ",
+            "description": "Sinopse: Álvaro de Campos é o heterônimo de Fernando Pessoa mais voltado para o futurismo e o modernismo. A obra aborda questões existenciais, a luta contra a banalidade da vida cotidiana e a busca por sentido em um mundo. ",
+            "autor": "Autor: Alvaro Campos (Fernando Pessoa)",
+            "recipeLink": " https://drive.usercontent.google.com/download?id=1GfQ3EvGbzHdgDldiuE3JG56nASQg_aDC&export=download&authuser=0&confirm=t&uuid=9a9185c2-b0c0-4461-b1f3-80c7b3f3a929&at=AENtkXYVbfFvtSHDPJv3bhSM3brQ:1731629058438"
         }
-    ],
-    "Ficção": [
+    ]
+},
+    "Ficção": {
+    "about": "O gênero ficção é caracterizado por narrativas inventadas, ou seja, histórias que não são baseadas em fatos reais. Nesse gênero, o autor cria mundos, personagens e situações a partir da imaginação, permitindo a exploração de temas e cenários que vão além da realidade.A ficção pode ser dividida em diversos subgêneros, como ficção científica, fantasia, mistério, terror, entre outros, cada um com suas próprias características e regras.",
+    "books": [
         {
             "name": "Uma Lagrima De Mulher ",
             "image": " https://i.ibb.co/3dw6q1w/image-29.png ",
-            "description": "sinopse: Uma Lágrima de Mulher: Aluísio Azevedo, com sua maestria literária, pinta um quadro envolvente que não apenas retrata as complexidades sociais da época, mas também explora as nuances emocionais dos personagens. Uma obra que encanta, emociona e deixa uma marca duradoura.",
+            "description": "Sinopse: Aluísio Azevedo, com sua maestria literária, pinta um quadro envolvente que não apenas retrata as complexidades sociais da época, mas também explora as nuances emocionais dos personagens. Uma obra que encanta, emociona e deixa uma marca duradoura.",
+            "autor": "Autor: Aluísio Azevedo",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1jtuZx1wQrNmXdeEN0E7O4LQiDRTfphrG&export=download&authuser=0&confirm=t&uuid=e6adc615-8efa-4613-a71e-2ee956542baa&at=AN_67v3JWC8N-KPcrTgjW4FYKt8P:1729637806551"
         },
         {
             "name": "Senhora",
             "image": " https://i.ibb.co/f0gjX4z/image-30.png",
-            "description": "sinopse: Senhora: Uma das obras mais românticas da literatura nacional, Senhora, de José de Alencar, apresenta como protagonista Aurélia Camargo, mulher de caráter firme e personalidade imperiosa, que aos dezoito anos já é dona de si. ",
+            "description": "Sinopse: Uma das obras mais românticas da literatura nacional, Senhora, de José de Alencar, apresenta como protagonista Aurélia Camargo, mulher de caráter firme e personalidade imperiosa, que aos dezoito anos já é dona de si. ",
+            "autor": "Autor: José De Alencar",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1mpxAZE-cuX_DFSWAEKhD5cpdYAxXt0cv&export=download&authuser=0&confirm=t&uuid=83a04716-64be-412c-8fc4-8d346c8d0231&at=AN_67v2xnY8UudBBZmH3hb2kQi11:1729637804011"
         },
         {
             "name": "O Saci",
             "image": "https://i.ibb.co/Ykm6RFK/image-31.png ",
-            "description": "sinopse: O Saci: pedrinho foi caçar no Capoeirão dos Tucanos, a mata virgem do Sítio do Picapau Amarelo, e encontrou um saci, que lhe contou os segredos da floresta e várias lendas do folclore brasileiro, como a Mula-sem-cabeça, o Boitatá, o Lobisomem, o Negrinho do Pastoreio e muitas outras coisas…",
+            "description": "Sinopse: Pedrinho foi caçar no Capoeirão dos Tucanos, a mata virgem do Sítio do Picapau Amarelo, e encontrou um saci, que lhe contou os segredos da floresta e várias lendas do folclore brasileiro, como a Mula-sem-cabeça, o Boitatá, o Lobisomem, o Negrinho do Pastoreio e muitas outras coisas…",
+            "autor": "Autor: Monteiro Lobato",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1Irf_jam3exrgW_s7MYLxkXqJfXRPQn8N&export=download&authuser=0&confirm=t&uuid=5a3933ad-fa0c-484f-9b17-7d271cb20e2c&at=AN_67v2fFPDEncC9IjZsGG6wEDzv:1729637800654 "
         },
         {
             "name": "O Alienista",
             "image": "https://i.ibb.co/yfQBkfP/image-32.png ",
-            "description": "sinopse:  O Alienista: Quem é louco? Esta é a grande questão proposta neste livro. Conto extenso, quase uma novela, O alienista é uma obra-prima da nossa literatura. Nessa narrativa, publicada pela primeira vez em 1882, ASSIS, MACHADO DE (1839-1908), o autor de Dom Casmurro.",
+            "description": "Sinopse: Quem é louco? Esta é a grande questão proposta neste livro. Conto extenso, quase uma novela, O alienista é uma obra-prima da nossa literatura. Nessa narrativa, publicada pela primeira vez em 1882, ASSIS, MACHADO DE (1839-1908), o autor de Dom Casmurro.",
+            "autor": "Autor: Machado De Assis",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1qmyMPL9wd6E0B_X3tcximaBZUl9Hqoe0&export=download&authuser=0&confirm=t&uuid=3ed9d9f6-aca8-4389-9288-fea495722e2c&at=AN_67v1bQsFyDZMjP7cBDZgx2aOG:1729634595113 "
         },
         {
             "name": "Metamorfose",
             "image": "https://i.ibb.co/jH2JRYV/image-33.png ",
-            "description": "sinopse: A Metamorfose: A metamorfose é a mais célebre novela de Franz Kafka e uma das mais importantes de toda a história da literatura. A história é narrada com um realismo inesperado que associa o inverossímil e o senso de humor ao que é trágico, grotesco e cruel na condição humana..",
+            "description": "Sinopse: A metamorfose é a mais célebre novela de Franz Kafka e uma das mais importantes de toda a história da literatura. A história é narrada com um realismo inesperado que associa o inverossímil e o senso de humor ao que é trágico, grotesco e cruel na condição humana..",
+            "autor": "Autor: Franz Kafka",
             "recipeLink": " https://drive.usercontent.google.com/download?id=11MBCFJ6WI1vVHvkBKOtlENFt0y9dKPgQ&export=download&authuser=0&confirm=t&uuid=28812e65-b3f0-4e62-b767-6c7adf335452&at=AN_67v1DyhlGvnyHuBdjDyFgn7x8:1729637795719"
         },
         {
             "name": "Edipo Rei",
             "image": " https://i.ibb.co/2vNBw2H/image-34.png",
-            "description": "sinopse: Édipo Rei: Escrita por Sófocles, um dos mais eminentes escritores de tragédias da Antiguidade (ao lado de Ésquilo e Eurípides), Édipo rei é uma obra-prima do teatro grego, considerada por muitos estudiosos como o mais perfeito dos poemas trágicos.",
+            "description": "Sinopse: Escrita por Sófocles, um dos mais eminentes escritores de tragédias da Antiguidade (ao lado de Ésquilo e Eurípides), Édipo rei é uma obra-prima do teatro grego, considerada por muitos estudiosos como o mais perfeito dos poemas trágicos.",
+            "autor": "Autor: Sófocles",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1uXT7dAo_EuhyIVeCzPcovs45JPRSGNgN&export=download&authuser=0&confirm=t&uuid=9b28e376-f92a-4739-908f-e8dd95b60449&at=AN_67v3x5q20Acj7EnbL2EjsimPu:1729634598889 "
         },
         {
             "name": "Alice Pais das maravilhas",
             "image": " https://i.ibb.co/VWp0bDT/image-35.png",
-            "description": "sinopse: Alice País Maravilhas: Charles Lutwidge Dodgson mais conhecido como CARROLL, LEWIS, seu nome está inscrito na história da literatura mundial por ser o autor de Alice no País das Maravilhas, o mais estranho e fascinante livro para crianças jamais escrito.",
+            "description": "Sinopse: Charles Lutwidge Dodgson mais conhecido como CARROLL, LEWIS, seu nome está inscrito na história da literatura mundial por ser o autor de Alice no País das Maravilhas, o mais estranho e fascinante livro para crianças jamais escrito.",
+            "autor": "Autor: Lewis Carroll",
             "recipeLink": " https://drive.usercontent.google.com/download?id=1kl0pWdGfssrLKYdBp6sIR5ZAm_Jqaow2&export=download&authuser=0&confirm=t&uuid=364ce2cc-5e37-4242-8800-1d1018b211c0&at=AN_67v201ecjzd-mQyMEqWakA1mJ:1729634600656"
         },
         {
-            "name": "A Volta ao mundo em...",
+            "name": "A Volta ao Mundo em 80 Dias",
             "image": "https://i.ibb.co/G2XK8JC/image-36.png ",
-            "description": "sinopse: A Volta ao Mundo: Clássico da literatura juvenil, esta reedição comemora os 100 anos do autor Júlio Verne e conta a história de um inglês, Phileas Fogg, que tinha uma vida regrada e solitária, mas com muito dinheiro e, devido a uma aposta com seus amigos de jogo, resolve dar a volta ao mundo em oitenta dias.",
+            "description": "Sinopse: Clássico da literatura juvenil, esta reedição comemora os 100 anos do autor Júlio Verne e conta a história de um inglês, Phileas Fogg, que tinha uma vida regrada e solitária, mas com muito dinheiro e, devido a uma aposta com seus amigos de jogo, resolve dar a volta ao mundo em oitenta dias.",
+            "autor": "Autor: Jules Verne ",
             "recipeLink": "https://drive.usercontent.google.com/download?id=15U4o_zaH2iUAYQdTUi3ivHBjLWpSoau2&export=download&authuser=0&confirm=t&uuid=e5114090-2835-4401-aaa9-bbaa7fd30247&at=AN_67v1_R97o2aeCxeMw7l4f4tSe:1729637790893"
         },
         {
             "name": "A Viuvinha",
             "image": "https://i.ibb.co/bXCLpyB/image-37.png ",
-            "description": "sinopse: A Viuvinha: A viuvinha é a história curiosa de um homem que simula sua morte para não sucumbir à vergonha de uma situação financeira desastrada. Publicado em 1857, é o terceiro livro de José de Alencar. Faz parte dos romances urbanos escritos pelo autor, que nos dão uma riquíssima descrição.",
+            "description": "Sinopse: A viuvinha é a história curiosa de um homem que simula sua morte para não sucumbir à vergonha de uma situação financeira desastrada. Publicado em 1857, é o terceiro livro de José de Alencar. Faz parte dos romances urbanos escritos pelo autor, que nos dão uma riquíssima descrição.",
+            "autor": "Autor: José De Alencar",
             "recipeLink": "https://drive.usercontent.google.com/download?id=19n5VKUlbW4vlcgyE5kCcJZCwVYAqDdRa&export=download&authuser=0&confirm=t&uuid=9a910485-5dc3-45b3-953b-1f8234c4c902&at=AN_67v1ZMAOgf_xwUhivLXjaXygn:1729634643446 "
         },
         {
             "name": "A Divina comedia ",
             "image": "https://i.ibb.co/QMJMLHL/image-38.png ",
-            "description": "sinopse: A Divina Comédia: Texto fundador da língua italiana, súmula da cosmovisão de toda uma época, monumento poético de rigor e beleza, obra magna da literatura universal. É fato que a “Comédia” merece esses e muitos outros adjetivos de louvor, incluindo o “divina” que Boccaccio lhe deu já no século XIV.",
+            "description": "Sinopse: Texto fundador da língua italiana, súmula da cosmovisão de toda uma época, monumento poético de rigor e beleza, obra magna da literatura universal. É fato que a “Comédia” merece esses e muitos outros adjetivos de louvor, incluindo o “divina” que Boccaccio lhe deu já no século XIV.",
+            "autor": "Autor: Dante Alighieri",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1VGM-GSVOV9EhMGtma-tCoS3PWyR4TaMU&export=download&authuser=0&confirm=t&uuid=e9b3fa53-033a-4f74-a612-708268d56e01&at=AN_67v2lblPJFfyD32tEoieWWTg-:1729637860267"
+        },
+        {
+            "name": "Pai contra Mãe",
+            "image": "https://i.ibb.co/tm2cPBv/image-6.png",
+            "description": "Sinopse: Pai Contra Mãe é um conto de autoria do escritor Machado de Assis e publicado pela primeira vez nas Relíquias da Casa Velha. Produzido cerca de dezoito anos após o fim da escravidão no Brasil, é, praticamente, o único conto do livro que trata explicitamente sobre o tema.",
+            "autor": "Autor: Machado de Assis",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1XGnxScaGixRsaEsqgtyQbgsx0QrVoF32&export=download&authuser=0&confirm=t&uuid=61da1899-8748-4d14-98d8-0e6c58c8ffaf&at=AENtkXZHFel7dvIbY0PscDT4WQOG:1732663268755"
+        },
+        {
+            "name": "Esaú e Jacó ",
+            "image": "https://i.ibb.co/Qr9TkVg/image-2.png",
+            "description": "Sinopse: Originalmente publicado em 1904, Esaú e Jacó trata de uma “história simples, acontecida e por acontecer”: dois jovens bem-nascidos, os gêmeos Pedro e Paulo, digladiam-se em intermináveis conflitos e reconciliações desde o útero da mãe até o começo da idade adulta.",
+            "autor": "Autor: Machado De Assis",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1xYJe-6lEK9K_fHAingk98fkYcHG76GFT&export=download&authuser=0&confirm=t&uuid=d0602f41-d270-4005-b248-3e3aa6f380bd&at=AENtkXb9815lK7Id0xdCow6rrOd8:1732663267803"
+        },
+        {
+            "name": "A Carteira",
+            "image": "https://i.ibb.co/bBJ4SNv/image.png",
+            "description": " Sinopse: A carteira foi publicado por Machado de Assis de forma avulsa, depois no jornal A estação, em 1884. Honório enfrenta um dilema quando encontra uma carteira no meio da rua. Sofre com a dúvida entre quitar uma dívida ou manter a consciência tranquila.",
+            "autor": "Autor: Machado De Assis",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1VAnUfYqjHtn-tQ1B55C1vIuWz6JL-hJc&export=download&authuser=0&confirm=t&uuid=55ef5f47-121f-4d66-ba4c-89fb1fb07faa&at=AENtkXaaqbl_xtDakCbC-cpWZ-yA:1732663265053"
+        },
+        {
+            "name": "Marquês do Rabico",
+            "image": "https://i.ibb.co/D82yH9J/image-3.png",
+            "description": " Sinopse: O Marquês de Rabicó é o terceiro episódio do livro Reinações de Narizinho. Na história, a boneca Emília ainda se casa com Rabicó, após Narizinho convencê-la de que o leitão é um marquês e de que esse arranjo realizaria seu sonho de se tornar princesa.",
+            "autor": "Autor: Monteiro Lobato",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1fKD7HGVbmgTKjkWLajY2oEhQ7bX3-U26&export=download&authuser=0&confirm=t&uuid=624f6d31-79c1-48df-ab88-2ffee3a6e4da&at=AENtkXaDGU61-C1msLEpfL-AyVhW:1732663263605"
+        },
+        {
+            "name": "Crisalidas",
+            "image": "https://i.ibb.co/J7ffMv8/image-1.png",
+            "description": " Sinopse: Este livro reflete a rica diversidade literária e a maestria poética do autor, sendo uma leitura essencial para todos que amam poesia, pois captura a essência do lirismo e da profundidade emocional da obra machadiana.",
+            "autor": "Autor: Machado De Assis",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=15qgtH2bTg4Uv0ITYdDx3hNjlY7Mocu-5&export=download&authuser=0&confirm=t&uuid=05cab631-cd3d-49d3-9d8a-3a0cf4f326d4&at=AENtkXZaynx4NSfhniWD03NDaZIZ:1732663261700"
+        },
+        {
+            "name": " O Empréstimo",
+            "image": "https://i.ibb.co/XD6wPj3/image-86.png",
+            "description": "Sinopse: Uma fascinante narrativa de Machado de Assis sobre um pedido de empréstimo repleto de nuances psicológicas, revelando a natureza humana através do encontro entre um tabelião perspicaz e um homem de ambição frustrada.",
+            "autor": "Autor: Machado De Assis",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1XiH5LCLncDyu6JfIaeRQPaj2PWYMUp7d&export=download&authuser=0&confirm=t&uuid=04a08716-2f8b-445c-8125-40f803be2ea3&at=AENtkXbEu-S7v4tTtgSuXTiC6T3y:1732663258766"
+        },
+        {
+            "name": "Reinações De Narizinho",
+            "image": "https://i.ibb.co/99HYz9P/image-5.png",
+            "description": "Sinopse: Monteiro Lobato nos apresenta o encantador Sítio do Picapau Amarelo, onde Narizinho, uma menina de imaginação fértil, vive inúmeras aventuras mágicas. Acompanhada por Emília, uma irreverente boneca de pano, uma obra que encanta gerações e mergulha o leitor em um mundo de sonhos e diversão.",
+            "autor": "Autor: Monteiro Lobato",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1k2ZybkC-iat3z9N4lKAg29blRAn16z9o&export=download&authuser=0&confirm=t&uuid=ceb31fa6-1e90-4bbf-831c-8f5edf60221a&at=AENtkXaJqua6K_G2lJkhGcbThdG1:1732663257926"
+        },
+        {
+            "name": "Peter Pan",
+            "image": "https://i.ibb.co/XsyNDsF/image-8.png",
+            "description": "Sinopse: Recontado por Monteiro Lobato, Peter Pan, traz a mágica história do menino que não queria crescer, adaptada para o universo do Sítio do Picapau Amarelo. Esta versão é perfeita para crianças e adultos que desejam mergulhar em uma leitura cheia de imaginação e fantasia, com o toque especial do autor brasileiro.",
+            "autor": "Autor: Monteiro Lobato",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1AvG2yphXTfSnnAF1dIVmivm4pAXoq3pF&export=download&authuser=0&confirm=t&uuid=923f4795-8258-4f1e-87c7-d960ab81cc6a&at=AENtkXYdclPBTk2cGN2hgbbl-tDn:1732663256186"
+        },
+        {
+            "name": "O Garatuja",
+            "image": "https://i.ibb.co/gv348mr/image-9.png",
+            "description": "Sinopse: Narrativa baseada em um fato verídico ocorrido em meados do século XVIII, na cidade do Rio de Janeiro. O Garatuja traz a marca da comicidade popular. José de Alencar faz meticuloso trabalho de recuperação de linguagem de época, apresentando as conversas das comadres.",
+            "autor": "Autor: José De Alencar",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1LHW04cIS8_oDh2d0fUmgGs4WFGwGrMxn&export=download&authuser=0&confirm=t&uuid=70acc52b-de8e-49d3-918b-f00e83e2f85d&at=AENtkXY-Wvn4S4d2tlW6p-NT9wC-:1732665955735"
+        },
+        {
+            "name": "Cinco Minutos",
+            "image": "https://i.ibb.co/xq5Hkx5/image-7.png",
+            "description": "Sinopse: Cinco minutos é o romance de estreia de José de Alencar. Foi publicado primeiramente em folhetins, sob pseudônimo, no Diário do Rio de Janeiro, em 1856. O livro é construído como carta para prima do anônimo narrador, que se propõe a contar não um “romance”, mas uma “história curiosa”.",
+            "autor": "Autor: José De Alencar",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1LHW04cIS8_oDh2d0fUmgGs4WFGwGrMxn&export=download&authuser=0&confirm=t&uuid=70acc52b-de8e-49d3-918b-f00e83e2f85d&at=AENtkXY-Wvn4S4d2tlW6p-NT9wC-:1732665955735"
         }
-    ],
-    "Gibis": [
+    ]
+    },
+    "Gibis": {
+    "about": "O gênero literário gibis, também conhecido como quadrinhos, combina texto e imagem para contar histórias. É caracterizado pela sequência de ilustrações acompanhadas de diálogos e descrições, geralmente dispostas em quadros ou painéis. Esse gênero abrange uma ampla variedade de temas, incluindo aventura, humor, fantasia, super-heróis, mistério, e muitos outros, sendo muito popular entre crianças e adultos.",
+    "books": [
         {
             "name": "Sesinho",
             "image": "https://i.ibb.co/jkNVQsK/sesinh.png ",
-            "description": "sinopse: Oi, pessoal. Todo mundo gosta de feriado. Nesta edição, vamos falar a importância desses dias pelo que se comemora. Muitas vezes, o feriado passa, e nem nos damos conta do motivo pelo qual ele existe.",
+            "description": "Sinopse: Oi, pessoal. Todo mundo gosta de feriado. Nesta edição, vamos falar a importância desses dias pelo que se comemora. Muitas vezes, o feriado passa, e nem nos damos conta do motivo pelo qual ele existe.",
+            "autor": "Autor: Eduardo Barbosa",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1EcJ6nSVjH6CQZY9onjPFtVstwPWqeiPJ&export=download&authuser=0&confirm=t&uuid=5cc0c2cf-57d0-4836-a96a-c6d9f45600c8&at=AN_67v1jMmTmlc2-QwWHcAZ17-Dy:1729639316189"
         },
         {
-            "name": "Maluquinho 2 ",
+            "name": "O Menino Maluquinho 2 ",
             "image": " https://i.ibb.co/BcxYbQG/maluqinho.png",
-            "description": "sinopse: Para falar da dengue, Ziraldo escalou seu personagem infantil mais famoso: o Menino Maluquinho. O objetivo é fazer com que as crianças sigam o exemplo do Maluquinho: mostrem aos pais a importância da prevenção.",
+            "description": "Sinopse: Para falar da dengue, Ziraldo escalou seu personagem infantil mais famoso: o Menino Maluquinho. O objetivo é fazer com que as crianças sigam o exemplo do Maluquinho: mostrem aos pais a importância da prevenção.",
+            "autor": "Autor: Ziraldo Alves Pinto",
             "recipeLink": " https://drive.usercontent.google.com/download?id=10_dJ21eI2PJzPzPYtPX4gslLFKmXwwIa&export=download&authuser=0&confirm=t&uuid=bd0ef645-1b41-4665-af32-34f9fc370e55&at=AN_67v2Aqlte7RBWeTAKWrgtPNlx:1729639312039"
         },
         {
             "name": "Importancia Animais ",
             "image": "https://i.ibb.co/xqf3ZQs/animais.png ",
-            "description": "sinopse: Em cada gibi vou mostrar como a sociedade é beneficiada com as descobertas feitas pelos cientistas. Vamos conhecer um exemplo de como os animais ajudam nas pesquisas! Veja como foi feito esta descoberta com a ajuda de animais.",
+            "description": "Sinopse: Em cada gibi vou mostrar como a sociedade é beneficiada com as descobertas feitas pelos cientistas. Vamos conhecer um exemplo de como os animais ajudam nas pesquisas! Veja como foi feito esta descoberta com a ajuda de animais.",
+            "autor": "Autor: Monica L. Andersen e Renata Mazaro-Costa ",
             "recipeLink": "https://drive.usercontent.google.com/download?id=16FevTDcr01w-OrjuOFkLKokfN7N-i2Hn&export=download&authuser=0&confirm=t&uuid=f27b6f9e-967a-4995-bc1e-37c1777a22db&at=AN_67v1bJGarNzwcc6_LpOIwfJFQ:1729639310003"
         },
         {
             "name": "HQ Capita recicla",
             "image": "https://i.ibb.co/jRQWgGy/capitaorecicla.png ",
-            "description": "sinopse:  A Capitã Recicla é uma personagem criada pela ABIOVE e, por meio de histórias em quadrinhos, ela ensina a maneira correta de descarte do óleo de cozinha e muito mais!",
+            "description": "Sinopse:  A Capitã Recicla é uma personagem criada pela ABIOVE e, por meio de histórias em quadrinhos, ela ensina a maneira correta de descarte do óleo de cozinha e muito mais!",
+            "autor": "Autor: Aparecido F. Roberto, Jose Wilson Magalhães , Eduardo Artico",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1IdHFM4p7OrnLCsKPWbkoMHEiriDqxxfq&export=download&authuser=0&confirm=t&uuid=6f836af5-05b5-43f5-92cf-8c319bcba669&at=AN_67v3Sl91n3utBaiSes9cMM-4n:1729639308357"
         },
         {
             "name": "Bullyng ",
             "image": "https://i.ibb.co/dpZpbBS/bullyng.png ",
-            "description": "sinopse: Embora este tema tenha chegado recentemente a mídia, ainda é um assunto desconhecido pela maior parte da população. Bullying é uma palavra inglesa, não traduzida no Brasil, que se refere a comportamentos agressivos entre crianças ou adolescentes.",
+            "description": "Sinopse: Embora este tema tenha chegado recentemente a mídia, ainda é um assunto desconhecido pela maior parte da população. Bullying é uma palavra inglesa, não traduzida no Brasil, que se refere a comportamentos agressivos entre crianças ou adolescentes.",
+            "autor": "Autor: Intituição MPSC",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1OOR6Lta5mZEaYJ2v-b5iKFkpgiQTQTcg&export=download&authuser=0&confirm=t&uuid=33c33d33-139d-42aa-b6b2-c76e20cb8505&at=AN_67v3frzswgyqSnuF0cG8IhjkG:1729639305775 "
         },
         {
             "name": "As Tirinha da Mafalda 7 ",
             "image": "https://i.ibb.co/wWxBzWT/mafalda7.png ",
-            "description": "sinopse: População, Demografia e Migração (2ª parte), Preconceitos, Salário, Trabalho e Emprego, Território, Trabalho Infantil, Transportes, TV, Tecnologia, Informação e Comunicação.",
+            "description": "Sinopse: População, Demografia e Migração (2ª parte), Preconceitos, Salário, Trabalho e Emprego, Território, Trabalho Infantil, Transportes, TV, Tecnologia, Informação e Comunicação.",
+            "autor": "Autor: Quino",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1Z9YloZ_-lWj-zGdwY25nUbY-ejiCHUuM&export=download&authuser=0&confirm=t&uuid=5f591a99-5233-41c7-836c-72b6e0389dea&at=AN_67v0wtJr5pw2zmgGj68K9Z4j_:1729639304043"
         },
         {
             "name": "As Tirinha da Mafalda 4 ",
             "image": "https://i.ibb.co/tHBw0Qp/mafalda4.png ",
-            "description": "sinopse: Educação e Escola (2ª parte), Ética, Social e Moral, Férias, Lazer e Turismo, Geografia Escolar, Geopolítica, Globalização e Sociedade (1ª parte)",
+            "description": "Sinopse: Educação e Escola (2ª parte), Ética, Social e Moral, Férias, Lazer e Turismo, Geografia Escolar, Geopolítica, Globalização e Sociedade (1ª parte)",
+            "autor": "Autor: Quino",
             "recipeLink": "https://drive.usercontent.google.com/download?id=10hGkTY5ZztrDd3rHIyUg9trtN3TUglcA&export=download&authuser=0&confirm=t&uuid=ddec77d0-9e46-4903-bb8d-94d4f435cfd6&at=AN_67v07Dp3X_dhlW0L_HY3Z6LfJ:1729639300977 "
         },
         {
             "name": "As Tirinha da Mafalda 3",
             "image": "https://i.ibb.co/XXyQNwZ/mafalda3.png ",
-            "description": "sinopse: ",
+            "description": "Sinopse: Este trabalho é resultado do projeto de pesquisa intitulado As tiras da Mafalda:conteúdos de Geografia na linguagem de quadrinhos1que investiga as váriaspossibilidades de uso de tiras de quadrinhos da Mafalda para mediar o ensino de Geografia.",
+            "autor": "Autor: Quino",
             "recipeLink": "https://drive.usercontent.google.com/download?id=189iTxuA1kReqrJ5R4i8CwbMFCv34NFR2&export=download&authuser=0&confirm=t&uuid=d6a6f33a-1f76-4d98-b87f-6fa449310d64&at=AN_67v3bApRwfFc2GbImnKvXwNps:1729639298419"
         },
         {
             "name": " As Tirinha da Mafalda 2",
             "image": " https://i.ibb.co/M2GY3zX/mafalda2-1.png",
-            "description": "sinopse:Cartografia e Fuso-Horário – Cidade e Habitar, Economia, Consumo e Consumismo ",
+            "description": "Sinopse:Cartografia e Fuso-Horário – Cidade e Habitar, Economia, Consumo e Consumismo ",
+            "autor": "Autor: Quino",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1u2diRZc_oFZkFXPvL6GDGazx7j_FZo9c&export=download&authuser=0&confirm=t&uuid=4c4969c1-d2f4-4598-85aa-0628d4e827f9&at=AN_67v3NDDBKx6xeZhOorh2jSfji:1729639292795"
         },
         {
             "name": " As Tirinha da Mafalda 1 ",
             "image": "https://i.ibb.co/QHv9cFZ/mafalda1.png ",
-            "description": "sinopse: Ambientes Urbanos, Astronomia, Campo e Cidade, Cartografia e Fuso-Horário",
+            "description": "Sinopse: Ambientes Urbanos, Astronomia, Campo e Cidade, Cartografia e Fuso-Horário",
+            "autor": "Autor: Quino",
             "recipeLink": "https://drive.usercontent.google.com/download?id=1S_z_6xpUyurt1uzhjunTu57iJ0lslA8X&export=download&authuser=0&confirm=t&uuid=8dbb91e0-fba4-4185-8055-eb6938192d20&at=AN_67v2cHxYHJHQskTbZbm4dF4rG:1729639290579 "
+        },
+        {
+            "name": "Quanto menos Lixo melhor",
+            "image": "https://i.ibb.co/QpCXrZ1/image-70.png",
+            "description": "Sinopse: O quadrinho fala sobre o cuidado que temos que ter com o planeta terra, o que devemos fazer parar preservar nossos recursos para que possamos ter qualidade de vida por gerações.",
+            "autor": "Autores: Varios Autores",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1wxX1k3u_GTW96xC08bsNYIk24_-XJz8M&export=download&authuser=0&confirm=t&uuid=e9bdcfc7-585a-414e-9960-80ebb488eae0&at=AENtkXa5ycWks_aduVvKWTzfo-62:1732660748199"
+        },
+        {
+            "name": "Tratamento de Esgoto",
+            "image": "https://i.ibb.co/Dthj6D0/image-71.png",
+            "description": "Sinopse: Olá, pessoal!  Vocês querem saber para onde vai a água do ralo?  Vamos, juntos então, conhecer todo o caminho que ela percorre, desde o ralo até seu retorno aos rios!",
+            "autor": "Mauricio De Sousa",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1DflPRba7Q-iAICjkJ_8DTEy0RTzXrohD&export=download&authuser=0&confirm=t&uuid=45905912-d124-4f38-9a4d-be8e0fbbe6b7&at=AENtkXY-cyJLf9Eapsah0Yc34NP-:1732660745340"
+        },
+        {
+            "name": "Você fala minha Língua",
+            "image": "https://i.ibb.co/kGWFZh5/image-72.png",
+            "description": "Sinopse: Falar uma segunda língua é cada vez mais importante atualmente, tanto em nosso dia a dia como no mercado de trabalho. Nesta edição, a turma do Sesinho conhece dois novos amigos estrangeiros e aprende com eles coisas legais sobre seus países de origem. Boa leitura!",
+            "autor": "Autor: Sesinho",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1zGpvARHEcpY0ahPF2Da7IvSDcLwZBOXe&export=download&authuser=0&confirm=t&uuid=1e234078-c0e3-4709-a11c-6a6dbfef52ae&at=AENtkXYC0WQnZrzfnEDsU5Wju1_B:1732660743664"
+        },
+        {
+            "name": "No mundo da Lua",
+            "image": "https://i.ibb.co/vdSdPp7/image-73.png",
+            "description": "Sinopse: O ser humano, desde sua pré-história, é fascinado pelas estrelas. De onde vieram? Para onde vão? De que são feitas? Estas e outras perguntas, muitas delas ainda sem respostas, povoam a imaginação humana. Em 2009, se comemorou o ano da Astronomia, ciência dos astros.",
+            "autor": "Autor: Sesinho",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1BrSatICM1HBF4OdFiQUr5D6MJsvwxdwz&export=download&authuser=0&confirm=t&uuid=0bcf8a87-216a-47b3-a578-56610f6a76ab&at=AENtkXbNoBo0FfsilxP1krrTBIBQ:1732660739516"
+        },
+        {
+            "name": "Cuidando do Mundo",
+            "image": "https://i.ibb.co/LrHYKNd/image-74.png",
+            "description": "Sinopse: Educação Ambiental também é coisa de criança, especialmente porque os pequenos estão aprendendo formas de se relacionar com o mundo. Mas por onde começar? Como falar sobre um tema que parece tão distante do universo infantil? Veja as respostas neste gibi.",
+            "autor": "Autor: Maurício de Sousa",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1XcfYT9kd3SeHGrTO7Zzj2Lch9ky1my62&export=download&authuser=0&confirm=t&uuid=29c39a42-487e-4ab5-b43d-9e553dc6ef14&at=AENtkXbddxHXsaLlODRW9XmBcVeX:1732660733564"
+        },
+        {
+            "name": "Feriado Todo Dia",
+            "image": "https://i.ibb.co/V3Wmr1V/image-75.png",
+            "description": "Sinopse: Oi, pessoal. Todo mundo gosta de feriado. Nesta edição, vamos falar a importância desses dias pelo que se comemora. Muitas vezes, o feriado passa, e nem nos damos conta do motivo pelo qual ele existe.",
+            "autor": "Autor: Sesinho",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1prR0bWBuFXl45XfAtjVMjL9qMxwO0-HN&export=download&authuser=0&confirm=t&uuid=5024629b-6c1c-47e2-82b4-173bb3ac9768&at=AENtkXbgGMAOURwud0APCmkcXGkl:1732660736360"
+        },
+        {
+            "name": "Eca em Miudos",
+            "image": "https://i.ibb.co/8DVYz7F/image-76.png",
+            "description": "Sinopse: Conhecer nossos direitos e deveres é essencial para a construção de uma sociedade mais justa. Quando falamos de crianças e adolescentes, cujas vivências destas fases de vida são determinantes para o desenvolvimento social, torna-se mais importante que eles saibam quais são suas principais garantias.",
+            "autor": "Autor: Sandro Lucio",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1xC72_7ATlI4e3p3y8VKKY10xtgImhP8v&export=download&authuser=0&confirm=t&uuid=9e4a8df6-b7cd-4229-b5b9-e7b75985d86a&at=AENtkXbIuC8whHIQiWJsLLz_Tlbo:1732660713485"
+        },
+        {
+            "name": "Bíblioteca um Lugar Mágico",
+            "image": "https://i.ibb.co/C0bz4J6/image-77.png",
+            "description": "Sinopse: A encantadora história de um grupo de crianças que adentra a biblioteca e descobrem, além do prazer de ler, a importância de preservar e cuidar do amigo livro. A curiosidade da descoberta encanta e faz sonhar.",
+            "autor": "Autor: Francisco Carlos Paletta, Waldomiro de Castro Santos Vergueiro",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1tM5bjdvm1xwvB4URzUl552EMMfFeUm_i&export=download&authuser=0&confirm=t&uuid=57cf13c2-b591-4f66-9ca6-8f042c040e65&at=AENtkXYBywle0tBSh-7fDuAQbE_I:1732660708545"
+        },
+        {
+            "name": "Um Super Herói de verdade ",
+            "image": "https://i.ibb.co/Bs1VPvM/image-78.png",
+            "description": "Sinopse: A encantadora história de um grupo de crianças que adentra a biblioteca e descobrem, além do prazer de ler, a importância de preservar e cuidar do amigo livro. A curiosidade da descoberta encanta e faz sonhar.",
+            "autor": "Autor: Sandra Aymone",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=14oKSzILsDD7FvfrHkImNZ8DwTY5YCoDU&export=download&authuser=0&confirm=t&uuid=a4f0cdbf-984c-4a90-975e-422441b0f702&at=AENtkXZP7nAHYl251qrsEcmd78Bp:1732660706508"
+        },
+        {
+            "name": "Guia Pratico",
+            "image": "https://i.ibb.co/bKkvk1t/image-79.png",
+            "description": "Sinopse: Contar uma história por meio de desenhos é fato antigo. Mas o uso dos quadrinhos como auxílio na aprendizagem, nem tanto. Antigamente, as histórias em quadrinhos não eram entendidas como um recurso didático e, portanto, eram apartadas do ambiente escolar.",
+            "autor": "Autor: Mylle Silva,",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=16SSwgDJ86f5h3XBe2X88YIf-SS3e4md-&export=download&authuser=0&confirm=t&uuid=ad3f129c-ce7b-439a-a89f-c63a9c491de1&at=AENtkXZ0vpicL9JmMo097RFysTl1:1732660704551"
         }
     ]
+},
+    "Enem": {
+    "about": "O ENEM (Exame Nacional do Ensino Médio) é uma das principais provas de acesso ao ensino superior no Brasil. Criado em 1998 pelo Ministério da Educação (MEC), o objetivo inicial do ENEM era avaliar a qualidade do ensino médio, mas com o passar dos anos, ele se tornou também uma porta de entrada para universidades públicas e privadas.",
+    "books": [
+        {
+            "name": "Matematica Basica",
+            "image": "https://i.ibb.co/8YYXs6y/image-49.png",
+            "description": "Descrição: Neste e-book temos o exercícios de matemática básica para estudar para a prova do Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1TR5yEQ3nlywzGPQYdrAWmEc8Agk2aMPP&export=download&authuser=0&confirm=t&uuid=978932f1-89d6-40f5-9ec3-fb95302c7fd8&at=AENtkXZCAUtuWjkoGZQZ-kuida7_:1732053117319"
+        },
+        {
+            "name": "Língua Portuguesa e Literatura",
+            "image": "https://i.ibb.co/vcR9Lp1/image-51.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar a Língua portuguesa e literatura.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1A0jsRP1jOLkMg__wo2H_kIHeB9OFgwFd&export=download&authuser=0&confirm=t&uuid=2b6041ed-b325-4b80-adea-63a4db2466cd&at=AENtkXZabM0PXXPfEiQ6c5JAYMkX:1732053115420"
+        },
+        {
+            "name": "Historia",
+            "image": "https://i.ibb.co/gMq2r8d/image-52.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar História.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1uAsdN19L9Yt-_yMGh5WdyA6s4LARQo6P&export=download&authuser=0&confirm=t&uuid=75df48c7-e16e-492b-8658-47b27be1e137&at=AENtkXZ9ToyJV4UcaeLI6FGmqTpd:1732053112045"
+        },
+        {
+            "name": "Geografia",
+            "image": "https://i.ibb.co/BVtXJ2x/image-53.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar Geografia.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1d_OBZ_QxFkg59fs6N8YPtO7GPqBbrWSd&export=download&authuser=0&confirm=t&uuid=973119f9-6d26-4f2f-a157-2d3bcf9c25ce&at=AENtkXb1PskvTeAx6Fnplwjo3MPq:1732053110236"
+        },
+        {
+            "name": "Fisica",
+            "image": "https://i.ibb.co/JnFNbX6/image-54.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar Física.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=13tYoeUoxqbokgB6_pUH1YP4qMLyRo3RI&export=download&authuser=0&confirm=t&uuid=ecea3fee-5a89-4d60-8430-290a507e880b&at=AENtkXa-VuKQRgkUc6yMQpWGxu_S:1732053107425"
+        },
+        {
+            "name": "Filosofia",
+            "image": "https://i.ibb.co/pJC3gK5/image-55.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar Filosofia.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1QWZCPBA2SRp3Nq7CqLbnwNc-Ef8qsDWT&export=download&authuser=0&confirm=t&uuid=1088bee4-6eb0-4b0d-9237-4d626e7cf843&at=AENtkXYi1YaFcwjdpX1vcYEkiSIP:1732053047042"
+        },
+        {
+            "name": "Educação Física",
+            "image": "https://i.ibb.co/hHZGrQp/image-56.png",
+            "description": "Descrição:Neste e-book temos o conteúdo sobre a como estudar Educação Física.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1QduLOFx7DSRi5_DBQQ_GVDyy7CBu1LvE&export=download&authuser=0&confirm=t&uuid=d10a84ef-88e4-4c24-bde1-fd4fc1bcb09c&at=AENtkXZjov4055Y9SdWYV6i2Gi7a:1732053044684"
+        },
+        {
+            "name": "Arte",
+            "image": "https://i.ibb.co/rHC0wNq/image-57.png",
+            "description": "Descrição:Neste e-book temos o conteúdo sobre a como estudar arte.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1Nn6_dLCepRs5Nc3S76BtqVskECTxbGZ5&export=download&authuser=0&confirm=t&uuid=70306f34-ee08-4d3d-b8ad-3033630c48c6&at=AENtkXYtYemYgirQodzvzgWc5Eti:1732053042518"
+        },
+        {
+            "name": "Inglês basico",
+            "image": "https://i.ibb.co/Ksr44C0/image-58.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre a como estudar inglês básico.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=13oBfrYHsy-kHGon9gonRQOIjktli0b9f&export=download&authuser=0&confirm=t&uuid=632c8ce2-9249-477d-9e6a-48729ab97de8&at=AENtkXa9rCnuWEY6IyyRLHxyCSMF:1732053040492"
+        },
+        {
+            "name": "Espanhol Basico",
+            "image": "https://i.ibb.co/mHft2JN/image-59.png",
+            "description":"Descrição: Neste e-book temos o conteúdo sobre a como estudar espanhol básico.",
+             "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1OFh-r630OcEPLlFNsQxD5AoLEXFHsPGD&export=download&authuser=0&confirm=t&uuid=a7491444-7f44-405b-947a-267c7a923007&at=AENtkXazVwfcXrjK3kRIkVe_qsHA:1732053038239"
+        },
+        {
+            "name": "Redacao Preparatorio Enem",
+            "image": "https://i.ibb.co/9tBVS3x/image-60.png",
+            "description": "Descrição: Ao ler cuidadosamente o conteúdo deste material e com o auxílio do professor, você verá como não é difícil escrever. Trata-seapenas de um planejamento e uma organização textual.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1j-T7FGp4OIjdgI6oTuK--qSL-WuDKxst&export=download&authuser=0&confirm=t&uuid=15d33f87-bbd8-476e-98b8-108456341367&at=AENtkXYKKu51n1ewP_Rytp3ppAB8:1732053035817"
+        },
+        {
+            "name": "Redação Enem ",
+            "image": "https://i.ibb.co/hLt46vt/image-62.png",
+            "description": "Descrição: Neste e-book temos os possíveis temas para a redação do Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=112DvFcRH7F79l4jMHDUeo5qtw3QbUKw0&export=download&authuser=0&confirm=t&uuid=2996a4ca-cece-4ff1-82e9-9144bd4721fa&at=AENtkXa10PTf9s0OastJCO5iQ8PI:1732053032988"
+        },
+        {
+            "name": "Como estudar Linguagens Enem",
+            "image": "https://i.ibb.co/g78Vmf6/image-63.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre como estudar para a prova de linguagens do Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1bpZvorEZCjlbOtycoha8Go6VeR-IYNoQ&export=download&authuser=0&confirm=t&uuid=d92d0176-372f-46bc-a6a6-63fd7f009944&at=AENtkXYRLuwxT2GDiJKTGlIPcMNH:1732053030995"
+        },
+        {
+            "name": " Ciências Da Natureza e suas Tecnologias",
+            "image": "https://i.ibb.co/BytmZyV/image-64.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre ciências da natureza e suas tecnologias para te auxiliar no Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=18KEhzevFK-vIcXLaq7wOypj710VMtb8k&export=download&authuser=0&confirm=t&uuid=4fbf98e1-e5ae-4bb2-8323-7f7edbfe25b4&at=AENtkXbvI-Dzq9cF8Lcn3IUJBgrL:1732053029904"
+        },
+        {
+            "name": "Ciências Humanas e Sociais Aplicadas",
+            "image": "https://i.ibb.co/7SZ0JDQ/image-65.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre  ciências humanas e sociais aplicadas para te auxiliar no Enem",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1IZsOBQ6JCeRr-rtA6BEVfRvz8295U0W8&export=download&authuser=0&confirm=t&uuid=8a23c8fa-ed8c-46a8-a896-fd060898a832&at=AENtkXZXs4jRDFLeY9iJXGnOlDny:1732053027756"
+        },
+        {
+            "name": "Ebook Matematica e suas Tecnologias",
+            "image": "https://i.ibb.co/NLhwf1h/image-66.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre matemática e suas tecnologias para te auxiliar no Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1MarhFky8aj2yzWrYG6Go9XY5y1v1vNDW&export=download&authuser=0&confirm=t&uuid=fb305004-8f9d-48b3-bc4d-0933d37889ee&at=AENtkXa8LWu4W6LyA9QC5tg9vsvt:1732053024918"
+        },
+        {
+            "name": " Linguagens codigos e suas tecnologias",
+            "image": "https://i.ibb.co/NmR3QvM/image-67.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre linguagens, códigos e suas tecnologias para te auxiliar no Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1EGuvzg0Bgb5wDq5xXoXHINVhSxJKnRPw&export=download&authuser=0&confirm=t&uuid=e3cb1133-75a1-4816-a2b2-bfbc42f9c523&at=AENtkXYj-VRJoMreFYAituJMeLBv:1732053023063"
+        },
+        {
+            "name": " Ciências Humanas e sua Tecnologias",
+            "image": "https://i.ibb.co/hfcC9Q1/image-68.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre ciências humanas e suas tecnologias para te auxiliar no Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1VkuKTy6TsAPX6wM2tW36FjBK9ryKoXwt&export=download&authuser=0&confirm=t&uuid=182515ea-8ea2-424f-b50f-02326e759b12&at=AENtkXYGxdSl7qTlWp-ZftiTPAnV:1732053020171"
+        },
+        {
+            "name": " Ciências da Natureza e sua Tecnologias",
+            "image": "https://i.ibb.co/RcG4T7C/image-69.png",
+            "description": "Descrição: Neste e-book temos o conteúdo sobre ciências da natureza e suas tecnologias para te auxiliar no Enem.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1_-orpEMyl_b2UqB1hOvSF6azEDhMuoI1&export=download&authuser=0&confirm=t&uuid=38f0cedc-5752-4720-adf0-139c5b2e8d68&at=AENtkXacMcjGJcQ7lRnhZ_iXwPJR:1732053017569"
+        },
+        {
+            "name": " ProEnem como Organizar seus estudos",
+            "image": "https://i.ibb.co/VD3djwj/image-48.png",
+            "description": "DescriçãO: Neste e-book, vamos mostrar a você uma outra formade enxergar o vestibular e o que deve ser levado emconta na hora de planejar sua rotina.",
+            "autor": "",
+            "recipeLink": "https://drive.usercontent.google.com/download?id=1XAnECP__VkceQ9DYpt6oyPMZi0YEYzfx&export=download&authuser=0&confirm=t&uuid=941de104-5820-4938-93e4-65079f1379d4&at=AENtkXaYSqZHTJmjk6T7Nig0adKL:1732053014431"
+        }
+    ]
+    }
 }
-
-
-
-
 
 
 

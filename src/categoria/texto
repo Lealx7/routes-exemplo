@@ -1,27 +1,4 @@
-import React from 'react';
-import { Modal, Box, Typography, Button, Rating } from '@mui/material';
-import CloudUploadIcon from '@mui/icons-material/CloudUpload';
-
-
-const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: "50%",
-  height: "480px",
-  borderRadius: 2,
-  bgcolor: 'white',
-  display: 'flex',
-  flexDirection: 'collumn',
-  boxShadow: 100,
-  p: 6,
-};
-
-const DishModal = ({ dish, open, onClose }) => {
-  return (
-    <Modal  open={open} onClose={onClose}  >
-    <Box sx={style}>
+<Box sx={style}>
 <Box
     display="flex" 
     height="100%"
@@ -85,12 +62,3 @@ const DishModal = ({ dish, open, onClose }) => {
     </Box>
 </Box>
 </Box>
-
-
-
-
-    </Modal >
-  );
-};
-
-export default DishModal;
